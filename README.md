@@ -8,89 +8,52 @@
 
 ---
 
-<table width="100%">
+<div align="center">
+
+## ◦ INTELLIGENT SYSTEMS IN PRODUCTION ◦
+
+</div>
+
+<table>
 <tr>
-<td width="50%" valign="top">
-
-### 🎯 CURRENT FOCUS
-Building **AI-native applications** that solve real problems without relying on external APIs. Specializing in **custom neural networks**, **automation systems**, and **scalable architectures**.
-
-### 🛠 CORE EXPERTISE
-**AI Engineering** → Custom models, NLP, Computer Vision  
-**Full Stack** → React, Node.js, FastAPI, Cloud Architecture  
-**System Design** → Scalable backends, Real-time data processing  
-
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60"/>
+<br><br>
+<strong>AI STUDY ECOSYSTEM</strong>
+<br><br>
+Neural-powered learning platform with personalized content generation, mind mapping, and peer collaboration
+<br><br>
+<code>React • LLaMA 2 • Firebase • Whisper</code>
 </td>
-<td width="50%" valign="top">
 
-### 📊 IMPACT METRICS
-
-```
-├─ 4 Production AI Applications
-├─ 15+ Custom ML Models Deployed  
-├─ 50K+ Users Across Platforms
-└─ 99.8% System Uptime
-```
-
-### 🔗 TECHNOLOGY INTEGRATIONS
-**Frontend** React • Next.js • TypeScript  
-**Backend** Node.js • FastAPI • Express  
-**AI/ML** PyTorch • TensorFlow • LangChain  
-**Cloud** GCP • Firebase • Railway  
-
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60"/>
+<br><br>
+<strong>JURISCAN ENGINE</strong>
+<br><br>
+Legal document intelligence that extracts and simplifies complex contracts using advanced NLP
+<br><br>
+<code>FastAPI • BERT • Vertex AI • TF-IDF</code>
 </td>
-</tr>
-</table>
 
----
-
-## ⚡ PRODUCTION SYSTEMS
-
-<table width="100%">
-<tr>
-<td width="25%">
-
-**AI Study Ecosystem**
-Personalized learning with neural-generated content
-```
-React + LLaMA 2
-Firebase + Whisper
-Real-time collaboration
-```
-
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
+<br><br>
+<strong>REPHRAZY PROTOCOL</strong>
+<br><br>
+Email tone transformation engine built with lightweight models for instant communication enhancement
+<br><br>
+<code>T5/BART • Web Extension • React</code>
 </td>
-<td width="25%">
 
-**JuriScan Engine** 
-Legal document intelligence platform
-```
-FastAPI + BERT
-Vertex AI + NLP
-Contract analysis
-```
-
-</td>
-<td width="25%">
-
-**Rephrazy Protocol**
-Email tone transformation system
-```
-T5/BART Models
-Browser extension
-Zero dependencies
-```
-
-</td>
-<td width="25%">
-
-**Analytics Dashboard**
-Department-wide coding metrics
-```
-React + Firebase
-Real-time tracking
-Export protocols
-```
-
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="60" height="60"/>
+<br><br>
+<strong>ANALYTICS DASHBOARD</strong>
+<br><br>
+Real-time coding progress tracking system for identifying top-tier programming talent
+<br><br>
+<code>React • Firebase • Charts • Analytics</code>
 </td>
 </tr>
 </table>
@@ -99,11 +62,9 @@ Export protocols
 
 <div align="center">
 
-### 📈 SYSTEM PERFORMANCE
+## ◦ NEURAL ARCHITECTURE STACK ◦
 
-<img src="https://github-readme-stats.vercel.app/api?username=ragavan28v&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ragavan28v&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA657&currStreakLabel=58A6FF" width="48%" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,python,tensorflow,pytorch,firebase,gcp,fastapi,javascript,html,css&theme=dark" />
 
 </div>
 
@@ -111,9 +72,13 @@ Export protocols
 
 <div align="center">
 
-### 🏆 RECOGNITION MATRIX
+## ◦ SYSTEM PERFORMANCE METRICS ◦
 
-![](https://github-profile-trophy.vercel.app/?username=ragavan28v&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=6)
+<img src="https://github-readme-stats.vercel.app/api?username=ragavan28v&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=ffffff&icon_color=6C7B7F&border_radius=8" width="49%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ragavan28v&theme=dark&hide_border=true&background=0a0a0a&stroke=6C7B7F&ring=6C7B7F&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=8" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragavan28v&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=ffffff&border_radius=8" width="60%"/>
 
 </div>
 
@@ -121,15 +86,34 @@ Export protocols
 
 <div align="center">
 
-### 🧠 ENGINEERING PHILOSOPHY
+## ◦ ACHIEVEMENT PROTOCOL ◦
 
-> **"Build systems that think, not systems that follow."**
-> 
-> Every line of code should either solve a problem or prevent one.  
-> Intelligence amplifies intention.
+<img src="https://github-profile-trophy.vercel.app/?username=ragavan28v&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
+
+</div>
 
 ---
 
-![](https://komarev.com/ghpvc/?username=ragavan28v&style=flat-square&color=58A6FF)
+<div align="center">
+
+## ◦ NEURAL ACTIVITY MAP ◦
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ragavan28v&theme=github-compact&hide_border=true&bg_color=0a0a0a&color=ffffff&line=6C7B7F&point=ffffff&area_color=6C7B7F&area=true&border_radius=8"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ◦ ENGINEERING PHILOSOPHY ◦
+
+**"Intelligence is not about following patterns—it's about creating them."**
+
+*Structure over shortcuts • Execution over everything • Logic over dependency*
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=ragavan28v&style=for-the-badge&color=6C7B7F&label=NEURAL+CONNECTIONS"/>
 
 </div>
