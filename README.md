@@ -144,7 +144,7 @@ Real-time coding progress tracking system for identifying top-tier programming t
 ### 🧠 **AI STUDY ECOSYSTEM**
 *Active Learning Intelligence*
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ragavan28v&repo=ai-study-buddy&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=6C7B7F&icon_color=ffffff&border_radius=12" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ragavan28v&repo=aiStudyBuddy&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=6C7B7F&icon_color=ffffff&border_radius=12" width="100%"/>
 
 **Neural Architecture:** React → LLaMA 2 → Firebase → Whisper  
 **Live Users:** 12,000+ | **AI Generations:** 450,000+  
