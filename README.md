@@ -65,14 +65,14 @@ Currently, I’m working on impactful AI-powered tools that merge **deep learnin
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ragavan_v&theme=tokyonight&hide_border=true&count_private=true&show_icons=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=ragavan_v&theme=tokyonight&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ragavan_v&theme=tokyonight&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ragavan28v&theme=tokyonight&hide_border=true&count_private=true&show_icons=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=ragavan28v&theme=tokyonight&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ragavan28v&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
 
 # 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ragavan_v&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ragavan28v&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
@@ -81,4 +81,4 @@ Currently, I’m working on impactful AI-powered tools that merge **deep learnin
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=ragavan_v&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ragavan28v&icon=0&color=0)](https://visitcount.itsvg.in)
