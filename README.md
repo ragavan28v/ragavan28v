@@ -1,61 +1,71 @@
 <div align="center">
 
-<h1 style="font-size:48px; margin-bottom:0;">RAGAVAN V</h1>
+# RAGAVAN V
 
-<p style="font-size:18px; color:gray; margin-top:8px;">
-AI Systems Architect • Full Stack Engineer • Secure Platform Builder
-</p>
-
-<img src="https://img.shields.io/badge/Multi--Agent-AI-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Production-Systems-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Secure-Architecture-darkgreen?style=for-the-badge"/>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=6C7B7F&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Full+Stack+%2B+AI+Systems+Engineer;Building+Production-Grade+Intelligence;Multi-Agent+Architectures+%E2%80%A2+Secure+Platform+Engineering)
 
 </div>
 
 ---
 
-<br/>
-
 # 🚀 FLAGSHIP SYSTEM
 
 <div align="center">
-<h2>Learning Path AI</h2>
-<p><i>Multi-Agent Career Path Planning Platform</i></p>
+
+## AI Learning Pathway  
+### Multi-Agent Career Path Planning Platform
+
 </div>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Overview
+### 🧠 What It Is
 
-An AI-powered adaptive roadmap generator that builds structured learning journeys using multi-agent orchestration and LLM reasoning.
+An AI-powered structured learning roadmap generator that uses  
+multi-agent orchestration + LLM reasoning + interactive graph visualization.
 
-• Intelligent prerequisite mapping  
-• Dynamic dependency graph generation  
-• Multi-plan management  
-• AI-powered chat guidance  
-• Python execution sandbox  
-
-<br/>
+<br>
 
 ### ⚙️ Core Stack
 
 `React` • `FastAPI` • `LangGraph` • `LLaMA 3` • `Groq API` • `Firebase` • `ReactFlow`
 
-🟡 **Status:** Actively Building  
+<br>
+
+### 🎯 Designed To
+
+• Auto-generate prerequisite maps  
+• Create adaptive learning sequences  
+• Provide contextual AI chat guidance  
+• Persist multi-plan data in the cloud  
+
+<br>
+
+🟡 **Status:** Actively Building
 
 </td>
 
 <td width="50%" valign="top">
 
+### 🧩 Capabilities
+
+🔹 Multi-Agent Workflow Design  
+🔹 Interactive Dependency Graphs  
+🔹 AI Chat Assistant Integration  
+🔹 Python Execution Sandbox  
+🔹 Cloud Sync via Firestore  
+🔹 Multi-Plan Management  
+
+<br>
+
 ### 🏗 Architecture Focus
 
-• Multi-Agent Workflow Design  
-• Structured Reasoning Pipelines  
-• Frontend–LLM Integration  
-• Visual Knowledge Modeling  
-• Cloud Persistence Systems  
+• Structured reasoning pipelines  
+• Frontend–LLM orchestration  
+• Knowledge graph modeling  
+• Modular API design  
 
 </td>
 </tr>
@@ -63,69 +73,67 @@ An AI-powered adaptive roadmap generator that builds structured learning journey
 
 ---
 
-<br/>
-
-# 🏗 PRODUCTION SYSTEMS
+# 🏗 DEPLOYED PRODUCTION SYSTEMS
 
 <table width="100%">
 <tr>
 
 <td width="33%" align="center" valign="top">
 
-<h3>⚔ ZERO2ELITE</h3>
+## ⚔ ZERO2ELITE
 
-<p>Gamified productivity engine inspired by RPG progression mechanics.</p>
+Gamified productivity engine inspired by RPG progression systems.
 
 `React` • `Gamification Logic` • `UI Engineering`
 
-<br/>
+<br>
 
 <a href="https://progresstracker28.netlify.app/">
-<img src="https://img.shields.io/badge/LIVE-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LIVE-SYSTEM-black?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/ragavan28v/zero2elite">
-<img src="https://img.shields.io/badge/REPO-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REPO-CODE-blue?style=for-the-badge" />
 </a>
 
 </td>
 
 <td width="33%" align="center" valign="top">
 
-<h3>🏦 ZAITO</h3>
+## 🏦 ZAITO
 
-<p>Secure MERN banking platform with JWT authentication and PIN-protected transactions.</p>
+Secure MERN banking system with JWT authentication and PIN-protected transfers.
 
 `MongoDB` • `Express` • `React` • `Node` • `JWT`
 
-<br/>
+<br>
 
 <a href="https://zaito-bankingapplication.onrender.com/dashboard">
-<img src="https://img.shields.io/badge/LIVE-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LIVE-SYSTEM-black?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/ragavan28v/Zaito-BankingApplication">
-<img src="https://img.shields.io/badge/REPO-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REPO-CODE-blue?style=for-the-badge" />
 </a>
 
 </td>
 
 <td width="33%" align="center" valign="top">
 
-<h3>🦅 PHISHSIM</h3>
+## 🦅 PHISHSIM
 
-<p>AI-powered phishing simulation platform with geo analytics and campaign tracking.</p>
+AI-driven phishing simulation & cybersecurity analytics platform.
 
 `MERN` • `Groq API` • `Analytics Engine`
 
-<br/>
+<br>
 
 <a href="https://phishsim.onrender.com/login">
-<img src="https://img.shields.io/badge/LIVE-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LIVE-SYSTEM-black?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/ragavan28v/PhishSim">
-<img src="https://img.shields.io/badge/REPO-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REPO-CODE-blue?style=for-the-badge" />
 </a>
 
 </td>
@@ -135,112 +143,94 @@ An AI-powered adaptive roadmap generator that builds structured learning journey
 
 ---
 
-<br/>
-
 # ⚖ UPCOMING SYSTEM
 
-<div align="center">
-<h2>Contract Risk Radar</h2>
-<p><i>NLP for Hidden Legal Traps</i></p>
-</div>
+## Contract Risk Radar  
+### NLP for Hidden Legal Traps
 
-Detects:
+AI system that detects:
 
 • Unfair clauses  
 • Hidden penalties  
-• Vague liability language  
-• Exploitative legal conditions  
+• Vague liability terms  
+• Exploitative legal structures  
 
-Impact → Helps individuals avoid legal exploitation.
+Impact → Protects individuals from legal exploitation.
 
 Planned Stack:
 
-`React` • `NLP Pipelines` • `LLMs` • `Semantic Risk Scoring Engine`
+`React` • `NLP Pipelines` • `LLMs` • `Semantic Risk Scoring`
 
-🧠 Status: Architecture Phase  
+🧠 Status: Architecture Phase
 
 ---
-
-<br/>
 
 # 🧠 SYSTEM CAPABILITIES
 
-<table width="100%">
-<tr>
-<td width="50%">
-
-• Multi-Agent AI Orchestration  
+• Multi-Agent AI Orchestration (LangGraph)  
 • Secure JWT Authentication Systems  
-• MongoDB Schema Architecture  
-• Cloud Deployment (Render / Firebase)  
-
-</td>
-<td width="50%">
-
-• Interactive Graph Visualization  
+• MongoDB Schema & Data Modeling  
+• Cloud Deployment (Render & Firebase)  
+• Interactive Graph Visualization (ReactFlow)  
 • AI Model Integration (LLaMA, BERT, T5)  
-• Gamified UX Engineering  
+• Gamified UX Architecture  
 • End-to-End Full Stack Engineering  
-
-</td>
-</tr>
-</table>
 
 ---
 
-<br/>
-
-# 🛠 CORE STACK
+# 🛠 CORE ARCHITECTURE STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,python,fastapi,mongodb,firebase,tensorflow,pytorch,javascript,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,python,tensorflow,pytorch,firebase,gcp,fastapi,javascript,html,css,mongodb&theme=dark" />
 
 </div>
 
 ---
-
-<br/>
 
 # 📊 ENGINEERING METRICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ragavan28v&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ragavan28v&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=ffffff&icon_color=6C7B7F" width="49%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ragavan28v&theme=dark&hide_border=true&background=000000" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ragavan28v&theme=dark&hide_border=true&background=0a0a0a&stroke=6C7B7F&ring=6C7B7F&fire=ffffff" width="49%"/>
 
-<br/><br/>
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragavan28v&layout=compact&theme=dark&hide_border=true&bg_color=000000" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragavan28v&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=ffffff" width="60%"/>
 
 </div>
 
 ---
 
-<br/>
-
-# 🏆 ACHIEVEMENTS
+# 🏆 ACHIEVEMENT PROTOCOL
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ragavan28v&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ragavan28v&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
 
 </div>
 
 ---
 
-<br/>
+# 📈 ACTIVITY MATRIX
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ragavan28v&theme=github-compact&hide_border=true&bg_color=0a0a0a&color=ffffff&line=6C7B7F&point=ffffff&area_color=6C7B7F&area=true"/>
+
+</div>
+
+---
 
 # ⚙ ENGINEERING PHILOSOPHY
-
-<div align="center">
 
 > Intelligence is engineered — not prompted.  
 > Systems over scripts. Structure over shortcuts. Execution over noise.
 
-<br/>
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ragavan28v&style=for-the-badge&color=black&label=PROFILE+VISITS"/>
+<img src="https://komarev.com/ghpvc/?username=ragavan28v&style=for-the-badge&color=6C7B7F&label=PROFILE+VISITS"/>
 
 </div>
