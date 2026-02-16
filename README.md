@@ -184,13 +184,13 @@ Explainable NLP engine detecting unfair clauses, hidden penalties, and vague lia
 
 ## ◦ SYSTEM PERFORMANCE METRICS ◦
 
-<img src="https://github-readme-stats.vercel.app/api?username=ragavan28v&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=ffffff&icon_color=6C7B7F" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ragavan28v&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=ffffff&icon_color=6C7B7F" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ragavan28v&theme=dark&hide_border=true&background=0a0a0a&stroke=6C7B7F&ring=6C7B7F" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ragavan28v&theme=dark&hide_border=true&background=0a0a0a&stroke=6C7B7F&ring=6C7B7F&fire=ffffff" width="48%" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragavan28v&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=ffffff" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragavan28v&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=ffffff" width="60%" />
 
 </div>
 
@@ -200,7 +200,7 @@ Explainable NLP engine detecting unfair clauses, hidden penalties, and vague lia
 
 ## ◦ LEETCODE ACTIVITY ◦
 
-<img src="https://leetcard.jacoblin.cool/Ragavan_V?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+<img src="https://leetcard.jacoblin.cool/Ragavan_V?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="95%" />
 
 </div>
 
@@ -210,7 +210,7 @@ Explainable NLP engine detecting unfair clauses, hidden penalties, and vague lia
 
 ## ◦ ACHIEVEMENT PROTOCOL ◦
 
-<img src="https://github-profile-trophy.vercel.app/?username=ragavan28v&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ragavan28v&theme=darkhub&margin-w=8&margin-h=8&column=6" width="95%" />
 
 </div>
 
@@ -220,7 +220,7 @@ Explainable NLP engine detecting unfair clauses, hidden penalties, and vague lia
 
 ## ◦ NEURAL ACTIVITY MAP ◦
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ragavan28v&theme=github-compact&hide_border=true&bg_color=0a0a0a&color=ffffff&line=6C7B7F&point=ffffff&area_color=6C7B7F&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ragavan28v&theme=github-compact&hide_border=true&bg_color=0a0a0a&color=ffffff&line=6C7B7F&point=ffffff&area_color=6C7B7F&area=true" width="95%" />
 
 </div>
 
