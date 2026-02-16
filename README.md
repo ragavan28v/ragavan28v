@@ -1,14 +1,14 @@
 <div align="center">
 
-<h1>RAGAVAN V</h1>
+# ◦ RAGAVAN V ◦
 
-<p>
-AI Systems Architect • Full Stack Engineer • Secure Platform Builder
-</p>
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=6C7B7F&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Full+Stack+%2B+AI+Systems+Engineer;Building+Production-Grade+Intelligence;Multi-Agent+Architectures+%E2%80%A2+Secure+Systems" />
 
-<img src="https://img.shields.io/badge/Multi-Agent_AI-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/Production_Systems-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Secure_Architecture-darkgreen?style=flat-square"/>
+<br/>
+
+<img src="https://img.shields.io/badge/Multi-Agent_AI-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Production_Systems-6C7B7F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Secure_Architecture-darkgreen?style=for-the-badge"/>
 
 </div>
 
@@ -16,26 +16,16 @@ AI Systems Architect • Full Stack Engineer • Secure Platform Builder
 
 <div align="center">
 
-## 🚀 Flagship — Learning Path AI
+## 🚀 FLAGSHIP SYSTEM  
+### Learning Path AI
+
 Multi-Agent Career Path Planning Platform
-
-</div>
-
-<div align="center">
-
-AI-powered adaptive roadmap generator using multi-agent orchestration and structured LLM reasoning.
-
-</div>
-
-<div align="center">
 
 `React` • `FastAPI` • `LangGraph` • `LLaMA 3` • `Groq` • `Firebase` • `ReactFlow`
 
-</div>
+AI-powered adaptive roadmap generator with structured reasoning, dependency graph modeling, and interactive execution sandbox.
 
-<div align="center">
-
-🟡 Status: Actively Building
+🟡 Actively Building
 
 </div>
 
@@ -43,34 +33,67 @@ AI-powered adaptive roadmap generator using multi-agent orchestration and struct
 
 <div align="center">
 
-## 🏗 Production Systems
+## 🏗 DEPLOYED PRODUCTION SYSTEMS
 
 </div>
 
-<div align="center">
+<table align="center" width="90%">
+<tr>
+<td align="center" width="33%">
 
 ### ⚔ ZERO2ELITE  
 Gamified productivity engine  
-<a href="https://progresstracker28.netlify.app/">Live</a> • 
-<a href="https://github.com/ragavan28v/zero2elite">Repo</a>
 
-</div>
+<a href="https://progresstracker28.netlify.app/">
+<img src="https://img.shields.io/badge/LIVE-black?style=for-the-badge"/>
+</a>
 
-<div align="center">
+<a href="https://github.com/ragavan28v/zero2elite">
+<img src="https://img.shields.io/badge/REPO-6C7B7F?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td align="center" width="33%">
 
 ### 🏦 ZAITO  
 Secure MERN banking platform  
-<a href="https://zaito-bankingapplication.onrender.com/dashboard">Live</a> • 
-<a href="https://github.com/ragavan28v/Zaito-BankingApplication">Repo</a>
 
-</div>
+<a href="https://zaito-bankingapplication.onrender.com/dashboard">
+<img src="https://img.shields.io/badge/LIVE-black?style=for-the-badge"/>
+</a>
 
-<div align="center">
+<a href="https://github.com/ragavan28v/Zaito-BankingApplication">
+<img src="https://img.shields.io/badge/REPO-6C7B7F?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td align="center" width="33%">
 
 ### 🦅 PHISHSIM  
-AI-powered phishing simulation platform  
-<a href="https://phishsim.onrender.com/login">Live</a> • 
-<a href="https://github.com/ragavan28v/PhishSim">Repo</a>
+AI phishing simulation platform  
+
+<a href="https://phishsim.onrender.com/login">
+<img src="https://img.shields.io/badge/LIVE-black?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/ragavan28v/PhishSim">
+<img src="https://img.shields.io/badge/REPO-6C7B7F?style=for-the-badge"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## ⚖ UPCOMING SYSTEM  
+### Contract Risk Radar
+
+Explainable NLP engine detecting hidden legal traps and exploitative clauses.
 
 </div>
 
@@ -78,17 +101,7 @@ AI-powered phishing simulation platform
 
 <div align="center">
 
-## ⚖ Upcoming — Contract Risk Radar
-
-Explainable NLP engine detecting hidden legal traps and exploitative clauses in contracts.
-
-</div>
-
----
-
-<div align="center">
-
-## 🧠 Core Capabilities
+## 🧠 CORE CAPABILITIES
 
 Multi-Agent Orchestration • Secure JWT Systems • MongoDB Architecture  
 Cloud Deployment • Graph Visualization • AI + Frontend Integration
@@ -99,7 +112,7 @@ Cloud Deployment • Graph Visualization • AI + Frontend Integration
 
 <div align="center">
 
-## 🛠 Tech Stack
+## 🛠 CORE STACK
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,python,fastapi,mongodb,firebase,tensorflow,pytorch,javascript,html,css&theme=dark" />
 
@@ -109,14 +122,15 @@ Cloud Deployment • Graph Visualization • AI + Frontend Integration
 
 <div align="center">
 
-## 📊 GitHub Metrics
+## 📊 ENGINEERING METRICS
 
-<img src="https://github-readme-stats.vercel.app/api?username=ragavan28v&show_icons=true&theme=dark&hide_border=true&bg_color=000000" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ragavan28v&theme=dark&hide_border=true&background=000000" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ragavan28v&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=ffffff&icon_color=6C7B7F" width="48%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ragavan28v&theme=dark&hide_border=true&background=0a0a0a&stroke=6C7B7F&ring=6C7B7F" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragavan28v&layout=compact&theme=dark&hide_border=true&bg_color=000000" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragavan28v&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=ffffff" width="60%"/>
 
 </div>
 
@@ -124,7 +138,7 @@ Cloud Deployment • Graph Visualization • AI + Frontend Integration
 
 <div align="center">
 
-## 🧩 LeetCode Activity
+## 🧩 LEETCODE ACTIVITY
 
 <img src="https://leetcard.jacoblin.cool/Ragavan_V?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
 
@@ -134,13 +148,14 @@ Cloud Deployment • Graph Visualization • AI + Frontend Integration
 
 <div align="center">
 
-## ⚙ Engineering Philosophy
+## ⚙ ENGINEERING PHILOSOPHY
 
-Intelligence is engineered — not prompted.  
-Systems over scripts. Structure over shortcuts.
+"Intelligence is engineered — not prompted."
+
+Structure over shortcuts • Systems over scripts • Execution over noise
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ragavan28v&style=flat-square&color=black&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=ragavan28v&style=for-the-badge&color=6C7B7F&label=PROFILE+VISITS"/>
 
 </div>
