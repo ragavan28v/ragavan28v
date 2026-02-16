@@ -2,7 +2,7 @@
 
 # ◦ RAGAVAN V ◦
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=6C7B7F&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Full+Stack+%2B+AI+Engineer;Building+Intelligence+Into+Everything;No+GPT+Dependencies+%E2%80%A2+Pure+Logic)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=6C7B7F&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+%2B+AI+Systems+Engineer;Building+Production-Grade+Intelligence;Secure+Architectures+%E2%80%A2+Multi-Agent+Systems)
 
 </div>
 
@@ -10,50 +10,36 @@
 
 <div align="center">
 
-## ◦ INTELLIGENT SYSTEMS IN PRODUCTION ◦
+## ◦ FLAGSHIP SYSTEM ◦  
+### AI Learning Pathway 🚀  
+Multi-Agent Career Path Planning Platform
 
 </div>
 
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60"/>
-<br><br>
-<strong>AI STUDY ECOSYSTEM</strong>
-<br><br>
-Neural-powered learning platform with personalized content generation, mind mapping, and peer collaboration
-<br><br>
-<code>React • LLaMA 2 • Firebase • Whisper</code>
-</td>
+<td align="center">
 
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60"/>
-<br><br>
-<strong>JURISCAN ENGINE</strong>
-<br><br>
-Legal document intelligence that extracts and simplifies complex contracts using advanced NLP
-<br><br>
-<code>FastAPI • BERT • Vertex AI • TF-IDF</code>
-</td>
+Intelligent AI-powered learning roadmap generator using  
+LangGraph workflows + LLM planning + interactive graph visualization.
 
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
 <br><br>
-<strong>REPHRAZY PROTOCOL</strong>
-<br><br>
-Email tone transformation engine built with lightweight models for instant communication enhancement
-<br><br>
-<code>T5/BART • Web Extension • React</code>
-</td>
 
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="60" height="60"/>
+<code>React • FastAPI • LangGraph • LLaMA 3 • Groq • Firebase • ReactFlow</code>
+
 <br><br>
-<strong>ANALYTICS DASHBOARD</strong>
-<br><br>
-Real-time coding progress tracking system for identifying top-tier programming talent
-<br><br>
-<code>React • Firebase • Charts • Analytics</code>
+
+⚙️ Capabilities:
+• AI prerequisite mapping  
+• Interactive dependency graphs  
+• Cloud persistence (Firestore)  
+• AI chat assistant  
+• Python execution sandbox  
+
+<br>
+
+🚧 Status: Actively Building  
+
 </td>
 </tr>
 </table>
@@ -62,9 +48,152 @@ Real-time coding progress tracking system for identifying top-tier programming t
 
 <div align="center">
 
-## ◦ NEURAL ARCHITECTURE STACK ◦
+## ◦ DEPLOYED PRODUCTION SYSTEMS ◦
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,python,tensorflow,pytorch,firebase,gcp,fastapi,javascript,html,css&theme=dark" />
+</div>
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+<strong>ZERO2ELITE</strong> ⚔️  
+Gamified Progress Engine  
+
+<br><br>
+
+RPG-inspired productivity system transforming habits into leveling mechanics.
+
+<br><br>
+
+<code>React • Gamification Logic • UI Engineering</code>
+
+<br><br>
+
+<a href="https://progresstracker28.netlify.app/">
+<img src="https://img.shields.io/badge/LIVE-SYSTEM-black?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/ragavan28v/zero2elite">
+<img src="https://img.shields.io/badge/REPO-CODE-blue?style=for-the-badge" />
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+<strong>ZAITO</strong> 🏦  
+Secure MERN Banking Platform  
+
+<br><br>
+
+Production-ready financial transaction system with JWT authentication & PIN security.
+
+<br><br>
+
+<code>MongoDB • Express • React • Node • JWT</code>
+
+<br><br>
+
+<a href="https://zaito-bankingapplication.onrender.com/dashboard">
+<img src="https://img.shields.io/badge/LIVE-SYSTEM-black?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/ragavan28v/Zaito-BankingApplication">
+<img src="https://img.shields.io/badge/REPO-CODE-blue?style=for-the-badge" />
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+<strong>PHISHSIM</strong> 🦅  
+AI Phishing Simulation Platform  
+
+<br><br>
+
+Cybersecurity simulation platform with AI-driven campaign generation & geo analytics.
+
+<br><br>
+
+<code>MERN • Groq API • Analytics Engine</code>
+
+<br><br>
+
+<a href="https://phishsim.onrender.com/login">
+<img src="https://img.shields.io/badge/LIVE-SYSTEM-black?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/ragavan28v/PhishSim">
+<img src="https://img.shields.io/badge/REPO-CODE-blue?style=for-the-badge" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## ◦ UPCOMING SYSTEM ◦
+
+</div>
+
+<table>
+<tr>
+<td align="center">
+
+<strong>⚖️ Contract Risk Radar</strong>  
+NLP for Hidden Legal Traps  
+
+<br><br>
+
+Detects unfair clauses, hidden penalties, vague liabilities,  
+and exploitative terms inside contracts.
+
+<br><br>
+
+Impact → Protects individuals from legal exploitation.
+
+<br><br>
+
+Planned Stack:  
+<code>React • NLP Pipelines • LLMs • Risk Scoring Engine</code>
+
+<br>
+
+🧠 Status: Architecture Phase  
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## ◦ SYSTEM CAPABILITIES ◦
+
+</div>
+
+• Multi-Agent Workflow Design (LangGraph)  
+• AI Model Integration (LLaMA, BERT, T5)  
+• Secure JWT Authentication  
+• MongoDB Schema Architecture  
+• Cloud Deployment (Render, Firebase)  
+• Interactive Graph Visualization (ReactFlow)  
+• Gamified UX Engineering  
+• Full-Stack Application Architecture  
+
+---
+
+<div align="center">
+
+## ◦ CORE ARCHITECTURE STACK ◦
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,python,tensorflow,pytorch,firebase,gcp,fastapi,javascript,html,css,mongodb&theme=dark" />
 
 </div>
 
@@ -72,7 +201,7 @@ Real-time coding progress tracking system for identifying top-tier programming t
 
 <div align="center">
 
-## ◦ SYSTEM PERFORMANCE METRICS ◦
+## ◦ ENGINEERING METRICS ◦
 
 <img src="https://github-readme-stats.vercel.app/api?username=ragavan28v&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=ffffff&icon_color=6C7B7F&border_radius=8" width="49%"/>
 
@@ -96,7 +225,7 @@ Real-time coding progress tracking system for identifying top-tier programming t
 
 <div align="center">
 
-## ◦ NEURAL ACTIVITY MAP ◦
+## ◦ ACTIVITY MATRIX ◦
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ragavan28v&theme=github-compact&hide_border=true&bg_color=0a0a0a&color=ffffff&line=6C7B7F&point=ffffff&area_color=6C7B7F&area=true&border_radius=8"/>
 
@@ -106,14 +235,14 @@ Real-time coding progress tracking system for identifying top-tier programming t
 
 <div align="center">
 
-### ◦ ENGINEERING PHILOSOPHY ◦
+## ◦ ENGINEERING PHILOSOPHY ◦
 
-**"Intelligence is not about following patterns—it's about creating them."**
+**"Intelligence is engineered — not prompted."**
 
-*Structure over shortcuts • Execution over everything • Logic over dependency*
+Structure over shortcuts • Systems over scripts • Execution over noise  
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=ragavan28v&style=for-the-badge&color=6C7B7F&label=NEURAL+CONNECTIONS"/>
+<img src="https://komarev.com/ghpvc/?username=ragavan28v&style=for-the-badge&color=6C7B7F&label=SYSTEM+VISITS"/>
 
 </div>
