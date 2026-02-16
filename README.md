@@ -1,74 +1,87 @@
 <div align="center">
 
-# ◦ RAGAVAN V ◦
+# RAGAVAN V
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=6C7B7F&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+%2B+AI+Systems+Engineer;Building+Production-Grade+Intelligence;Secure+Architectures+%E2%80%A2+Multi-Agent+Systems)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=6C7B7F&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Full+Stack+%2B+AI+Systems+Engineer;Building+Production-Grade+Intelligence;Multi-Agent+Architectures+%E2%80%A2+Secure+Systems)
 
 </div>
 
 ---
 
-<div align="center">
+# 🚀 FLAGSHIP SYSTEM
 
-## ◦ FLAGSHIP SYSTEM ◦  
-### AI Learning Pathway 🚀  
-Multi-Agent Career Path Planning Platform
+## AI Learning Pathway  
+### Multi-Agent Career Path Planning Platform
 
-</div>
-
-<table>
+<table width="100%">
 <tr>
-<td align="center">
 
-Intelligent AI-powered learning roadmap generator using  
-LangGraph workflows + LLM planning + interactive graph visualization.
+<td width="50%" valign="top">
 
-<br><br>
+### 🧠 Overview
 
-<code>React • FastAPI • LangGraph • LLaMA 3 • Groq • Firebase • ReactFlow</code>
+An AI-powered career roadmap generator that builds structured, adaptive learning paths using multi-agent workflows and LLM planning.
 
-<br><br>
+Designed to:
 
-⚙️ Capabilities:
-• AI prerequisite mapping  
-• Interactive dependency graphs  
-• Cloud persistence (Firestore)  
-• AI chat assistant  
-• Python execution sandbox  
+• Generate intelligent prerequisite graphs  
+• Create adaptive learning sequences  
+• Provide real-time AI guidance  
+• Persist multi-plan data in cloud  
 
 <br>
 
-🚧 Status: Actively Building  
+### ⚙️ Core Stack
+
+`React` • `FastAPI` • `LangGraph` • `LLaMA 3` • `Groq API` • `Firebase` • `ReactFlow`
+
+<br>
+
+🟡 **Status:** Actively Building  
 
 </td>
+
+<td width="50%" valign="top">
+
+### 🧩 Capabilities
+
+🔹 AI prerequisite mapping  
+🔹 Interactive dependency graphs  
+🔹 Multi-plan management  
+🔹 Cloud persistence (Firestore)  
+🔹 Integrated AI chat assistant  
+🔹 Python execution sandbox  
+
+<br>
+
+### 🎯 Architecture Focus
+
+• Multi-agent orchestration  
+• Structured reasoning pipelines  
+• Frontend–LLM integration  
+• Visual knowledge modeling  
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-<div align="center">
+# 🏗 DEPLOYED PRODUCTION SYSTEMS
 
-## ◦ DEPLOYED PRODUCTION SYSTEMS ◦
-
-</div>
-
-<table>
+<table width="100%">
 <tr>
 
-<td align="center" width="33%">
+<td width="33%" align="center" valign="top">
 
-<strong>ZERO2ELITE</strong> ⚔️  
-Gamified Progress Engine  
+## ⚔ ZERO2ELITE
 
-<br><br>
+Gamified productivity engine inspired by RPG progression mechanics.
 
-RPG-inspired productivity system transforming habits into leveling mechanics.
+`React` • `Gamification Logic` • `UI Engineering`
 
-<br><br>
-
-<code>React • Gamification Logic • UI Engineering</code>
-
-<br><br>
+<br>
 
 <a href="https://progresstracker28.netlify.app/">
 <img src="https://img.shields.io/badge/LIVE-SYSTEM-black?style=for-the-badge" />
@@ -80,20 +93,15 @@ RPG-inspired productivity system transforming habits into leveling mechanics.
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" align="center" valign="top">
 
-<strong>ZAITO</strong> 🏦  
-Secure MERN Banking Platform  
+## 🏦 ZAITO
 
-<br><br>
+Secure MERN banking platform with JWT authentication and PIN-protected transactions.
 
-Production-ready financial transaction system with JWT authentication & PIN security.
+`MongoDB` • `Express` • `React` • `Node` • `JWT`
 
-<br><br>
-
-<code>MongoDB • Express • React • Node • JWT</code>
-
-<br><br>
+<br>
 
 <a href="https://zaito-bankingapplication.onrender.com/dashboard">
 <img src="https://img.shields.io/badge/LIVE-SYSTEM-black?style=for-the-badge" />
@@ -105,20 +113,15 @@ Production-ready financial transaction system with JWT authentication & PIN secu
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" align="center" valign="top">
 
-<strong>PHISHSIM</strong> 🦅  
-AI Phishing Simulation Platform  
+## 🦅 PHISHSIM
 
-<br><br>
+AI-driven phishing simulation and cybersecurity analytics platform.
 
-Cybersecurity simulation platform with AI-driven campaign generation & geo analytics.
+`MERN` • `Groq API` • `Analytics Engine`
 
-<br><br>
-
-<code>MERN • Groq API • Analytics Engine</code>
-
-<br><br>
+<br>
 
 <a href="https://phishsim.onrender.com/login">
 <img src="https://img.shields.io/badge/LIVE-SYSTEM-black?style=for-the-badge" />
@@ -135,63 +138,44 @@ Cybersecurity simulation platform with AI-driven campaign generation & geo analy
 
 ---
 
-<div align="center">
+# ⚖ UPCOMING SYSTEM
 
-## ◦ UPCOMING SYSTEM ◦
+## Contract Risk Radar  
+### NLP for Hidden Legal Traps
 
-</div>
+AI-powered contract analyzer that detects:
 
-<table>
-<tr>
-<td align="center">
-
-<strong>⚖️ Contract Risk Radar</strong>  
-NLP for Hidden Legal Traps  
-
-<br><br>
-
-Detects unfair clauses, hidden penalties, vague liabilities,  
-and exploitative terms inside contracts.
-
-<br><br>
+• Unfair clauses  
+• Hidden penalties  
+• Vague liability terms  
+• Exploitative legal conditions  
 
 Impact → Protects individuals from legal exploitation.
 
-<br><br>
+Planned Stack:
 
-Planned Stack:  
-<code>React • NLP Pipelines • LLMs • Risk Scoring Engine</code>
+`React` • `NLP Pipelines` • `LLMs` • `Semantic Analysis` • `Risk Scoring Engine`
 
-<br>
-
-🧠 Status: Architecture Phase  
-
-</td>
-</tr>
-</table>
+🧠 Status: Architecture Phase
 
 ---
 
-<div align="center">
-
-## ◦ SYSTEM CAPABILITIES ◦
-
-</div>
+# 🧠 SYSTEM CAPABILITIES
 
 • Multi-Agent Workflow Design (LangGraph)  
-• AI Model Integration (LLaMA, BERT, T5)  
-• Secure JWT Authentication  
+• Secure JWT Authentication Systems  
 • MongoDB Schema Architecture  
-• Cloud Deployment (Render, Firebase)  
+• Cloud Deployment (Render & Firebase)  
 • Interactive Graph Visualization (ReactFlow)  
-• Gamified UX Engineering  
-• Full-Stack Application Architecture  
+• AI Model Integration (LLaMA, BERT, T5)  
+• Gamified UX Architecture  
+• End-to-End Full Stack Engineering  
 
 ---
 
-<div align="center">
+# 🛠 CORE ARCHITECTURE STACK
 
-## ◦ CORE ARCHITECTURE STACK ◦
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,python,tensorflow,pytorch,firebase,gcp,fastapi,javascript,html,css,mongodb&theme=dark" />
 
@@ -199,13 +183,15 @@ Planned Stack:
 
 ---
 
-<div align="center">
+# 📊 ENGINEERING METRICS
 
-## ◦ ENGINEERING METRICS ◦
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ragavan28v&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=ffffff&icon_color=6C7B7F&border_radius=8" width="49%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragavan28v&theme=dark&hide_border=true&background=0a0a0a&stroke=6C7B7F&ring=6C7B7F&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=8" width="49%"/>
+
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragavan28v&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=ffffff&border_radius=8" width="60%"/>
 
@@ -213,9 +199,9 @@ Planned Stack:
 
 ---
 
-<div align="center">
+# 🏆 ACHIEVEMENT PROTOCOL
 
-## ◦ ACHIEVEMENT PROTOCOL ◦
+<div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=ragavan28v&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
 
@@ -223,26 +209,23 @@ Planned Stack:
 
 ---
 
+# 📈 ACTIVITY MATRIX
+
 <div align="center">
 
-## ◦ ACTIVITY MATRIX ◦
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ragavan28v&theme=github-compact&hide_border=true&bg_color=0a0a0a&color=ffffff&line=6C7B7F&point=ffffff&area_color=6C7B7F&area=true&border_radius=8"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ragavan28v&theme=github-compact&hide_border=true&bg_color=0a0a0a&color=ffffff&line=6C7B7F&point=ffffff&area_color=6C7B7F&area=true"/>
 
 </div>
 
 ---
 
+# ⚙ ENGINEERING PHILOSOPHY
+
+> Intelligence is engineered — not prompted.  
+> Systems over scripts. Structure over shortcuts. Execution over noise.
+
 <div align="center">
 
-## ◦ ENGINEERING PHILOSOPHY ◦
-
-**"Intelligence is engineered — not prompted."**
-
-Structure over shortcuts • Systems over scripts • Execution over noise  
-
----
-
-<img src="https://komarev.com/ghpvc/?username=ragavan28v&style=for-the-badge&color=6C7B7F&label=SYSTEM+VISITS"/>
+<img src="https://komarev.com/ghpvc/?username=ragavan28v&style=for-the-badge&color=6C7B7F&label=PROFILE+VISITS"/>
 
 </div>
