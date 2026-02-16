@@ -1,10 +1,10 @@
----
-
+here is my github profile readme can you check it and say me what it includes and what are mentioned 
+give me like a report
 <div align="center">
 
 # ◦ RAGAVAN V ◦
 
-[Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=6C7B7F&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Full+Stack+%2B+AI+Engineer;Building+Intelligence+Into+Everything;No+GPT+Dependencies+%E2%80%A2+Pure+Logic)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=6C7B7F&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Full+Stack+%2B+AI+Engineer;Building+Intelligence+Into+Everything;No+GPT+Dependencies+%E2%80%A2+Pure+Logic)
 
 </div>
 
