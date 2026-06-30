@@ -1,20 +1,16 @@
-<!-- ========================= -->
-<!--          HEADER          -->
-<!-- ========================= -->
+<!-- ====================================================================== -->
+<!--                               HERO SECTION                             -->
+<!-- ====================================================================== -->
 
 <div align="center">
 
-# Hi 👋 I'm Ragavan V
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;React+Native+Developer;AI+Systems+Engineer;Building+Production-Ready+Applications;MERN+%7C+Mobile+%7C+AI+%7C+Robotics" alt="Typing SVG"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,30:1e293b,70:2563eb,100:3b82f6&text=Ragavan%20V&fontAlign=50&fontAlignY=38&fontSize=58&fontColor=ffffff&desc=Full%20Stack%20Developer%20•%20React%20Native%20Engineer%20•%20AI%20Systems%20Builder&descAlignY=58&animation=fadeIn"/>
 
 </div>
 
----
-
 <div align="center">
 
-### Building software that is simple for users, powerful under the hood, and scalable by design.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=3B82F6&center=true&vCenter=true&width=950&lines=Building+products+that+people+actually+use.;React+Native+%7C+MERN+%7C+AI+Systems+%7C+Robotics.;Clean+Architecture.+Scalable+Systems.+Real+Impact."/>
 
 </div>
 
@@ -22,212 +18,77 @@
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="YOUR_PORTFOLIO">
+
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+
 </a>
 
 <a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="mailto:YOUR_EMAIL">
+
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 <a href="https://github.com/ragavan28v">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
 </a>
 
 <a href="https://leetcode.com/u/Ragavan_V/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
 
-<a href="https://www.codechef.com/users/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
 </a>
 
 </div>
 
 ---
 
-# 💫 About Me
+<div align="center">
 
-```cpp
-class RagavanV {
+# Building Software Beyond CRUD.
 
-public:
+### Mobile Applications • Artificial Intelligence • Full Stack Engineering • Robotics
 
-    string role =
-        "Full Stack Developer & AI Systems Engineer";
+</div>
 
-    string education =
-        "B.E. Computer Science (AI & ML)";
+<br>
 
-    vector<string> interests = {
-
-        "Mobile Development",
-        "Full Stack Engineering",
-        "Artificial Intelligence",
-        "Multi-Agent Systems",
-        "Robotics",
-        "Cloud Computing"
-    };
-
-    vector<string> currentlyBuilding = {
-
-        "SpendMap",
-        "LearningPath AI",
-        "ContractRadar"
-    };
-
-    string philosophy =
-        "Build products that solve real problems.";
-};
-```
-
-I am a **Computer Science (AI & ML)** student passionate about building production-ready applications that combine clean engineering, intuitive user experiences, and intelligent automation.
-
-My primary focus is developing scalable software across **React Native**, **MERN**, **AI Systems**, and **Robotics**, transforming ideas into products that people can actually use.
-
----
-
-# 🚀 Current Focus
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-### 📱 SpendMap
-
-Production-ready personal finance ecosystem.
-
-- Wallet Management
-- Expense Tracking
-- Analytics
-- Reports
-- Notifications
-- Offline Support
-
-**Tech**
-
-`React Native`
-
-`Expo`
-
-`Firebase`
-
-`TypeScript`
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🧠 LearningPath AI
-
-Multi-Agent career planning platform using intelligent reasoning.
-
-- Agent Workflows
-- Roadmap Generation
-- AI Planning
-- Knowledge Graph
-
-**Tech**
-
-`React`
-
-`FastAPI`
-
-`LangGraph`
-
-`Groq`
-
-</td>
-
-<td width="33%" valign="top">
-
-### ⚖️ ContractRadar
-
-AI-powered legal contract analysis platform.
-
-- Risk Detection
-- Clause Analysis
-- Explainable AI
-- Semantic Search
-
-**Status**
-
-🚧 Under Development
-
-</td>
-
-</tr>
-</table>
-
----
-
-# ⚡ Quick Highlights
-
-<table>
-<tr>
-
-<td>
-
-🏆 Multiple National Hackathon Winner
-
-</td>
-
-<td>
-
-🚀 Building Production Mobile Applications
-
-</td>
-
-</tr>
+<table width="100%">
 
 <tr>
 
-<td>
+<td width="60%" valign="top">
 
-🤖 AI Systems & Multi-Agent Development
+# 👋 Hello
 
-</td>
+I'm **Ragavan**, a software engineer focused on creating products rather than projects.
 
-<td>
+My work combines modern application development, intelligent automation, and scalable backend architecture to build software that delivers real-world value.
 
-📱 React Native + MERN Stack Developer
+Rather than experimenting with isolated technologies, I enjoy engineering complete ecosystems—from frontend experiences and backend services to AI reasoning pipelines and mobile applications.
 
-</td>
+### Current Direction
 
-</tr>
-
-<tr>
-
-<td>
-
-🛰️ Caterpillar Autonomy Challenge Finalist
+- 📱 Production Mobile Applications
+- 🤖 AI Agent Systems
+- ☁ Cloud Native Backends
+- ⚙ Scalable Architecture
+- 🛰 Intelligent Robotics
 
 </td>
 
-<td>
+<td width="40%" valign="top">
 
-⭐ CodeChef 4★ Programmer
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-💻 160+ LeetCode Problems Solved
-
-</td>
-
-<td>
-
-☁️ AWS • Firebase • FastAPI
+<img src="https://github-readme-stats.vercel.app/api?username=ragavan28v&show_icons=true&hide_border=true&theme=transparent"/>
 
 </td>
 
@@ -237,268 +98,368 @@ AI-powered legal contract analysis platform.
 
 ---
 
-# 🌱 What I'm Learning
+# 🚀 Featured Product
 
-- Advanced React Native Architecture
-- AI Agent Workflows
-- Distributed Systems
-- Cloud Native Development
-- Scalable Backend Architecture
-- System Design
+<div align="center">
 
----
+# SpendMap
 
-# 💻 Tech Stack
+### *The Finance Operating System for Everyday People.*
 
-## Languages
+</div>
 
-<p>
+<table width="100%">
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript"/>
-
-</p>
-
-## Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite"/>
-
-</p>
-
-## Mobile
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-
-</p>
-
-## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
-
-</p>
-
-## AI / ML
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LangGraph-0A0A0A?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge"/>
-
-</p>
-
-## Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
-
-</p>
-
-## Cloud & Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,postman"/>
-
-</p>
-
----
-
-
-# 🚀 Featured Projects
-
-> A collection of products and platforms focused on solving real-world problems through scalable engineering, AI, and modern application development.
-
----
-
-<table>
 <tr>
-<td width="50%" valign="top">
+
+<td width="55%" valign="top">
+
+Instead of building another expense tracker, I wanted to create a complete financial ecosystem where users can manage every aspect of their personal finances from a single application.
+
+SpendMap is designed around simplicity on the surface and powerful architecture underneath.
+
+### Core Features
+
+✔ Multiple Wallet Management
+
+✔ Income & Expense Tracking
+
+✔ Wallet Transfers
+
+✔ Shared Wallet Ecosystem
+
+✔ Categories & Analytics
+
+✔ Monthly Financial Reports
+
+✔ PDF & Excel Export
+
+✔ Notifications
+
+✔ Secure Authentication
+
+✔ Offline Support
+
+✔ Modern UI/UX
+
+✔ Firebase Cloud Sync
+
+<br>
+
+### Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,typescript,firebase"/>
+
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo"/>
+
+<img src="https://img.shields.io/badge/Zustand-111827?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Expo_Router-2563EB?style=for-the-badge"/>
+
+</p>
+
+<br>
+
+<a href="#">
+
+<img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge"/>
+
+</a>
+
+<a href="#">
+
+<img src="https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</td>
+
+<td width="45%" align="center">
+
+<img width="95%" src="YOUR_SPENDMAP_MOCKUP"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+# 🧩 Engineering Domains
+
+</div>
+
+<table width="100%">
+
+<tr>
+
+<td align="center" width="25%">
+
+<img width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
+### Mobile
+
+React Native
+
+Expo
+
+TypeScript
+
+Firebase
+
+</td>
+
+<td align="center" width="25%">
+
+<img width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+
+### Backend
+
+Node.js
+
+Express
+
+FastAPI
+
+MongoDB
+
+</td>
+
+<td align="center" width="25%">
+
+<img width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+### AI
+
+LangGraph
+
+LangChain
+
+Groq
+
+PyTorch
+
+</td>
+
+<td align="center" width="25%">
+
+<img width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+
+### Systems
+
+AWS
+
+Docker
+
+Git
+
+Linux
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+# ⚡ What I'm Building Right Now
+
+</div>
+
+<table width="100%">
+
+<tr>
+
+<td width="33%">
 
 ## 📱 SpendMap
 
-A modern personal finance management ecosystem built for individuals to track, organize, and analyze their financial life.
+Production-ready finance ecosystem.
 
-### Features
+**Status**
 
-- Multi Wallet Management
-- Income & Expense Tracking
-- Wallet Transfers
-- Shared Wallet Support
-- Categories & Tags
-- Smart Analytics
-- Monthly Insights
-- PDF Reports
-- Excel Export
-- Notifications
-- Secure Authentication
-- Offline Support
-
-### Tech Stack
-
-`React Native`
-
-`Expo`
-
-`TypeScript`
-
-`Firebase`
-
-`Firestore`
-
-`Zustand`
-
-`Expo Router`
-
-`Async Storage`
-
-### Status
-
-🟢 Production
-
-<br>
-
-<a href="YOUR_PLAYSTORE_OR_APK">
-
-<img src="https://img.shields.io/badge/Live-3B82F6?style=for-the-badge"/>
-
-</a>
-
-<a href="https://github.com/ragavan28v">
-
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
-
-</a>
+🟢 Shipping Features
 
 </td>
 
-<td width="50%" valign="top">
-
-<img src="YOUR_SPENDMAP_SCREENSHOT"/>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<img src="YOUR_LEARNINGPATH_IMAGE"/>
-
-</td>
-
-<td width="50%" valign="top">
+<td width="33%">
 
 ## 🧠 LearningPath AI
 
-An AI-powered career planning platform that generates personalized learning roadmaps through multi-agent reasoning and structured decision making.
+Multi-Agent career planning platform.
 
-### Features
-
-- AI Career Planning
-- Multi-Agent Architecture
-- Dynamic Learning Roadmaps
-- Skill Gap Analysis
-- Adaptive Recommendations
-- Knowledge Graph
-- Interactive Flow Visualization
-
-### Tech Stack
-
-`React`
-
-`FastAPI`
-
-`LangGraph`
-
-`LangChain`
-
-`Groq API`
-
-`Firebase`
-
-`React Flow`
-
-### Status
+**Status**
 
 🟡 Active Development
 
-<br>
+</td>
 
-<a href="#">
+<td width="33%">
 
-<img src="https://img.shields.io/badge/Demo-3B82F6?style=for-the-badge"/>
+## ⚖ ContractRadar
 
-</a>
+AI Legal Intelligence Platform.
 
-<a href="#">
+**Status**
 
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
-
-</a>
+🚧 Architecture Phase
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
-<table>
+<div align="center">
+
+# Selected Products
+
+</div>
+
+<table width="100%">
+
 <tr>
 
 <td width="50%" valign="top">
 
-## 🚀 Zero2Elite
+<img width="100%" src="YOUR_LEARNINGPATH_SCREENSHOT"/>
 
-Gamified productivity platform inspired by RPG progression mechanics that transforms personal growth into an engaging experience.
+</td>
+
+<td width="50%" valign="top">
+
+# 🧠 LearningPath AI
+
+### Multi-Agent Career Intelligence Platform
+
+LearningPath AI is an intelligent career planning ecosystem that generates personalized roadmaps using multiple AI agents instead of traditional prompt-response interactions.
+
+Every recommendation is produced through reasoning, planning, validation, and knowledge retrieval.
+
+---
+
+### Highlights
+
+🧠 Multi-Agent Workflow
+
+📚 Personalized Learning Paths
+
+🎯 Skill Gap Analysis
+
+🗺 Dynamic Career Roadmaps
+
+📊 Interactive Graph Visualization
+
+⚡ AI Planning Engine
+
+🔍 Knowledge Retrieval
+
+---
+
+### Architecture
+
+```text
+User
+   │
+   ▼
+Planner Agent
+   │
+Retriever Agent
+   │
+Reasoning Agent
+   │
+Roadmap Generator
+   │
+Visualization Engine
+   │
+Frontend
+```
+
+---
+
+### Stack
+
+<img src="https://skillicons.dev/icons?i=react,fastapi,firebase"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Groq-111827?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ReactFlow-2563EB?style=for-the-badge"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table width="100%">
+
+<tr>
+
+<td width="50%" valign="top">
+
+# 📈 Zero2Elite
+
+### Gamified Productivity Platform
+
+Inspired by RPG progression systems, Zero2Elite transforms everyday habits into quests, achievements, XP, and long-term personal growth.
+
+Instead of tracking habits...
+
+It builds consistency.
+
+---
 
 ### Features
 
-- Habit Tracking
-- Daily Missions
-- XP & Levels
-- Achievement System
-- Progress Dashboard
-- Statistics
-- Goal Tracking
+🎯 Goal Tracking
 
-### Tech Stack
+⚔ XP System
 
-`React`
+🏆 Achievements
 
-`Firebase`
+📅 Daily Missions
 
-`Firestore`
+📊 Progress Dashboard
 
-`Zustand`
+📈 Analytics
 
-### Status
+🔥 Streak System
 
-🟢 Live
+---
+
+### Tech
+
+<img src="https://skillicons.dev/icons?i=react,firebase"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Zustand-111827?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Firestore-111827?style=for-the-badge"/>
 
 <br>
 
 <a href="https://progresstracker28.netlify.app/">
 
-<img src="https://img.shields.io/badge/Live-3B82F6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Visit-2563EB?style=for-the-badge"/>
 
 </a>
 
@@ -512,60 +473,65 @@ Gamified productivity platform inspired by RPG progression mechanics that transf
 
 <td width="50%" valign="top">
 
-<img src="YOUR_ZERO2ELITE_IMAGE"/>
+<img width="100%" src="YOUR_ZERO2ELITE_SCREENSHOT"/>
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
-<table>
+<table width="100%">
+
 <tr>
 
 <td width="50%" valign="top">
 
-<img src="YOUR_ZAITO_IMAGE"/>
+<img width="100%" src="YOUR_ZAITO_SCREENSHOT"/>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🏦 Zaito
+# 🏦 Zaito
 
-A secure modern banking application developed using the MERN stack with authentication, wallet management, and transaction security.
+### Modern Banking Platform
+
+A production-oriented banking application built on the MERN stack with authentication, transaction management, wallet operations, and secure account handling.
+
+---
 
 ### Features
 
-- Secure Authentication
-- Wallet Dashboard
-- Banking Operations
-- PIN Protection
-- Transaction History
-- Responsive Dashboard
+💳 Account Dashboard
 
-### Tech Stack
+🔐 JWT Authentication
 
-`MongoDB`
+💰 Wallet Management
 
-`Express`
+📜 Transaction History
 
-`React`
+🧾 Banking Operations
 
-`Node.js`
+📱 Responsive UI
 
-`JWT`
+---
 
-### Status
+### Stack
 
-🟢 Live
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/JWT-181717?style=for-the-badge"/>
 
 <br>
 
 <a href="https://zaito-bankingapplication.onrender.com/dashboard">
 
-<img src="https://img.shields.io/badge/Live-3B82F6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Live-2563EB?style=for-the-badge"/>
 
 </a>
 
@@ -578,49 +544,54 @@ A secure modern banking application developed using the MERN stack with authenti
 </td>
 
 </tr>
+
 </table>
 
 ---
 
-<table>
+<table width="100%">
+
 <tr>
 
 <td width="50%" valign="top">
 
-## 🛡️ PhishSim
+# 🛡 PhishSim
 
-Cybersecurity awareness platform that enables organizations to conduct phishing simulations and monitor campaign performance.
+### Security Awareness Platform
+
+Enterprise phishing simulation platform designed to improve organizational security awareness through controlled attack simulations and campaign analytics.
+
+---
 
 ### Features
 
-- Email Campaigns
-- Simulation Dashboard
-- Geo Analytics
-- Risk Reports
-- User Tracking
-- Security Awareness
+📨 Campaign Management
 
-### Tech Stack
+🌍 Geo Analytics
 
-`React`
+📊 Risk Dashboard
 
-`Node.js`
+👥 User Tracking
 
-`MongoDB`
+📈 Reports
 
-`Express`
+🧠 AI Assisted Insights
 
-`Groq API`
+---
 
-### Status
+### Stack
 
-🟢 Live
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Groq_API-111827?style=for-the-badge"/>
 
 <br>
 
 <a href="https://phishsim.onrender.com/login">
 
-<img src="https://img.shields.io/badge/Live-3B82F6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Live-2563EB?style=for-the-badge"/>
 
 </a>
 
@@ -634,89 +605,382 @@ Cybersecurity awareness platform that enables organizations to conduct phishing 
 
 <td width="50%" valign="top">
 
-<img src="YOUR_PHISHSIM_IMAGE"/>
+<img width="100%" src="YOUR_PHISHSIM_SCREENSHOT"/>
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
-<table>
+# 🏗 Engineering Ecosystem
+
+<table width="100%">
+
 <tr>
 
-<td width="50%" valign="top">
+<td align="center">
 
-<img src="YOUR_CONTRACTRADAR_IMAGE"/>
+### 📱 Mobile
+
+React Native
+
+Expo
+
+TypeScript
+
+Firebase
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center">
 
-## ⚖️ ContractRadar
+### 🌐 Web
 
-An AI-powered legal document analysis platform that identifies risky clauses, hidden liabilities, and unfair contract terms using NLP and LLMs.
+React
 
-### Planned Features
+Node.js
 
-- Clause Detection
-- Risk Scoring
-- Explainable AI
-- Semantic Search
-- AI Summaries
-- Contract Comparison
+Express
 
-### Tech Stack
+MongoDB
 
-`React`
+</td>
 
-`FastAPI`
+<td align="center">
 
-`LLMs`
+### 🤖 Artificial Intelligence
 
-`NLP`
+LangChain
 
-`LangChain`
+LangGraph
 
-### Status
+Groq
 
-🚧 Coming Soon
+FastAPI
+
+</td>
+
+<td align="center">
+
+### ⚙ Infrastructure
+
+AWS
+
+Docker
+
+Git
+
+Linux
 
 </td>
 
 </tr>
+
 </table>
 
 ---
-
-# 📌 More Projects
-
-| Project | Description |
-|----------|-------------|
-| 🎬 Movie Night Recommender | Personalized movie recommendation platform using TMDB API |
-| 📚 Library Auditing Robot | Autonomous shelf auditing robot using OCR and computer vision |
-| 🤖 Caterpillar Autonomous Rover | Moon terrain autonomous navigation rover using ROS2 |
-| 📖 AI Story Generator | Multi-agent storytelling platform powered by LLMs |
-| 🧠 BlockIntelAI | AI-powered cybersecurity intelligence platform |
-
----
-
-# 🏆 Achievements
 
 <div align="center">
 
-| Achievement | Recognition |
-|-------------|-------------|
-| 🛰️ Caterpillar Autonomy Challenge 2026 | Finalist |
-| 🥈 Hackrithm | 2nd Prize |
-| 🥈 Hack The Vault | 2nd Prize |
-| 🥈 Ideatronic | 2nd Prize |
-| 🥉 National Data Science Hackathon | 3rd Prize |
-| ⭐ CodeChef | 4★ Programmer |
-| 💻 LeetCode | 160+ Problems Solved |
+# ⚡ From Ideas to Production
 
 </div>
+
+```text
+Idea
+ │
+ ▼
+Research
+ │
+ ▼
+Architecture
+ │
+ ▼
+UI / UX
+ │
+ ▼
+Backend
+ │
+ ▼
+AI Integration
+ │
+ ▼
+Testing
+ │
+ ▼
+Deployment
+ │
+ ▼
+Continuous Improvements
+```
+
+---
+
+<div align="center">
+
+## "I don't build projects to learn technologies.
+
+I learn technologies to build products."
+
+</div>
+
+---
+
+<div align="center">
+
+# ⚙ Engineering Philosophy
+
+</div>
+
+<table width="100%">
+
+<tr>
+
+<td width="33%" align="center">
+
+## 🏗 Architecture First
+
+Every product starts with system design before writing a single line of code.
+
+</td>
+
+<td width="33%" align="center">
+
+## 🚀 Product Mindset
+
+I build complete products intended to solve real-world problems—not tutorial projects.
+
+</td>
+
+<td width="33%" align="center">
+
+## 🧠 Continuous Learning
+
+Every project introduces a new engineering challenge to solve.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🚀 Development Workflow
+
+<div align="center">
+
+```text
+                   Product Idea
+                        │
+                        ▼
+                Problem Discovery
+                        │
+                        ▼
+                Architecture Design
+                        │
+                        ▼
+          Database & API Planning
+                        │
+                        ▼
+              Frontend Experience
+                        │
+                        ▼
+              Backend Services
+                        │
+                        ▼
+             AI / Automation Layer
+                        │
+                        ▼
+          Testing & Optimization
+                        │
+                        ▼
+                Cloud Deployment
+                        │
+                        ▼
+             User Feedback Cycle
+```
+
+</div>
+
+---
+
+# 🧠 Technology Ecosystem
+
+<table width="100%">
+
+<tr>
+
+<td width="25%" valign="top">
+
+## Languages
+
+- Java
+- C++
+- Python
+- JavaScript
+- TypeScript
+
+</td>
+
+<td width="25%" valign="top">
+
+## Frontend
+
+- React
+- React Native
+- Expo
+- Tailwind CSS
+- HTML5
+- CSS3
+
+</td>
+
+<td width="25%" valign="top">
+
+## Backend
+
+- Node.js
+- Express.js
+- FastAPI
+- Firebase
+- REST APIs
+
+</td>
+
+<td width="25%" valign="top">
+
+## Databases
+
+- MongoDB
+- Firestore
+- MySQL
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="25%" valign="top">
+
+## AI
+
+- LangChain
+- LangGraph
+- Groq
+- TensorFlow
+- PyTorch
+- NLP
+
+</td>
+
+<td width="25%" valign="top">
+
+## Cloud
+
+- AWS
+- Render
+- Netlify
+- Firebase
+
+</td>
+
+<td width="25%" valign="top">
+
+## Tools
+
+- Git
+- GitHub
+- Docker
+- Linux
+- VS Code
+- Postman
+
+</td>
+
+<td width="25%" valign="top">
+
+## Robotics
+
+- ROS2
+- Arduino
+- Raspberry Pi
+- Jetson Orin Nano
+- OpenCV
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🏆 Milestones
+
+<table width="100%">
+
+<tr>
+
+<td align="center">
+
+## 🛰
+
+### Caterpillar
+
+Autonomy Challenge
+
+Finalist
+
+</td>
+
+<td align="center">
+
+## 🥈
+
+Hackrithm
+
+2nd Prize
+
+</td>
+
+<td align="center">
+
+## 🥈
+
+Hack The Vault
+
+2nd Prize
+
+</td>
+
+<td align="center">
+
+## 🥈
+
+Ideatronic
+
+2nd Prize
+
+</td>
+
+<td align="center">
+
+## 🥉
+
+National Data Science
+
+Hackathon
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
@@ -724,9 +988,9 @@ An AI-powered legal document analysis platform that identifies risky clauses, hi
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ragavan28v&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ragavan28v&theme=transparent&hide_border=true&show_icons=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragavan28v&layout=compact&theme=transparent&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragavan28v&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
@@ -734,13 +998,11 @@ An AI-powered legal document analysis platform that identifies risky clauses, hi
 
 <div align="center">
 
-<img width="100%" src="https://streak-stats.demolab.com?user=ragavan28v&theme=transparent&hide_border=true"/>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ragavan28v&theme=transparent&hide_border=true"/>
 
 </div>
 
 ---
-
-# 📊 Contribution Graph
 
 <div align="center">
 
@@ -750,63 +1012,127 @@ An AI-powered legal document analysis platform that identifies risky clauses, hi
 
 ---
 
-# 💻 Coding Profiles
+# 💻 Coding Journey
 
-<div align="center">
+<table width="100%">
 
-<a href="https://leetcode.com/u/Ragavan_V/">
+<tr>
+
+<td width="50%">
+
+### Competitive Programming
+
+⭐ CodeChef 4★
+
+💻 160+ LeetCode Problems
+
+📚 Continuous DSA Practice
+
+🎯 Interview Preparation
+
+</td>
+
+<td width="50%">
 
 <img src="https://leetcard.jacoblin.cool/Ragavan_V?theme=dark&font=JetBrains+Mono&ext=heatmap"/>
 
-</a>
+</td>
 
-</div>
+</tr>
 
-<br>
+</table>
+
+---
+
+# 🌍 Beyond Code
+
+<table width="100%">
+
+<tr>
+
+<td width="25%" align="center">
+
+📱
+
+### Mobile Apps
+
+</td>
+
+<td width="25%" align="center">
+
+🤖
+
+### Artificial Intelligence
+
+</td>
+
+<td width="25%" align="center">
+
+🛰
+
+### Robotics
+
+</td>
+
+<td width="25%" align="center">
+
+☁
+
+### Cloud
+
+</td>
+
+</tr>
+
+</table>
+
+---
 
 <div align="center">
 
-<a href="YOUR_CODECHEF">
+# Currently Exploring
 
-<img src="https://img.shields.io/badge/CodeChef-4★-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+### Multi-Agent Systems
 
-</a>
+### Advanced React Native
 
-<a href="YOUR_GFG">
+### Cloud Native Applications
 
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+### Distributed Systems
 
-</a>
+### AI Powered Products
+
+### Scalable Backend Architecture
 
 </div>
 
 ---
 
-# 🤝 Let's Connect
-
 <div align="center">
+
+# Let's Connect
 
 <a href="YOUR_LINKEDIN">
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 
 </a>
 
 <a href="mailto:YOUR_EMAIL">
 
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 
 </a>
 
 <a href="YOUR_PORTFOLIO">
 
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel"/>
 
 </a>
 
 <a href="https://github.com/ragavan28v">
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 
 </a>
 
@@ -814,68 +1140,35 @@ An AI-powered legal document analysis platform that identifies risky clauses, hi
 
 ---
 
-# 💭 Engineering Philosophy
-
 <div align="center">
 
-> **"Good software isn't just written. It's engineered."**
-
-</div>
+## "Engineering products that create impact—not just repositories."
 
 <br>
 
-<div align="center">
-
-Production over prototypes • Architecture over shortcuts • Simplicity over complexity
+<img src="https://komarev.com/ghpvc/?username=ragavan28v&style=for-the-badge&color=2563EB"/>
 
 </div>
 
----
+<!-- =========================================================== -->
 
-<div align="center">
-
-### 🚀 Current Mission
-
-Building products that combine
-
-**Mobile Development × Artificial Intelligence × Scalable Engineering**
-
-to solve real-world problems.
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ragavan28v&style=for-the-badge&color=3B82F6"/>
-
-</div>
-
-<!-- ================================================= -->
-
-<!-- Optional GitHub Snake -->
-
-<!-- Uncomment after generating your snake animation -->
+<!-- OPTIONAL -->
 
 <!--
 
-<div align="center">
+Add later:
 
-<img src="https://raw.githubusercontent.com/ragavan28v/ragavan28v/output/github-contribution-grid-snake.svg"/>
+🐍 Snake Animation
 
-</div>
+3D Contribution Calendar
+
+Spotify Now Playing
+
+Blog Posts
+
+WakaTime
 
 -->
 
-<!-- ================================================= -->
+<!-- =========================================================== -->
 
-<!-- Footer -->
-
-<div align="center">
-
-### Thanks for visiting! ⭐
-
-If you like my work, consider giving a ⭐ to the repositories you find interesting.
-
-</div>
