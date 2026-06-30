@@ -1,5 +1,5 @@
 <!-- ========================================================= -->
-<!--                     HEADER                                -->
+<!--                           HERO                            -->
 <!-- ========================================================= -->
 
 <p align="center">
@@ -10,19 +10,29 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=900&color=3B82F6&center=true&vCenter=true&width=900&lines=MERN+Full+Stack+Developer;React+Native+Developer;AI+Systems+Engineer;Building+Production+Software;Turning+Ideas+Into+Products"/>
-
-<br>
-
-**Latest Release** • SpendMap v1.1.0
-&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;
-**Currently Building** • Constella
-
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=900&lines=MERN+Full+Stack+Developer;React+Native+Developer;AI+Systems+Engineer;Building+Scalable+Software;Turning+Ideas+Into+Products"/>
 
 Building scalable software with clean architecture, intuitive user experiences, and practical AI.
 
-<br><br>
+<br>
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,react,nextjs,vite,tailwind,nodejs,express,fastapi,mongodb,mysql,firebase,aws,docker,git,github,linux,postman,tensorflow,pytorch&perline=12"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Hackathons-5+-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CodeChef-4★-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-196+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+<br>
 
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -40,9 +50,10 @@ Building scalable software with clean architecture, intuitive user experiences, 
 <table>
 
 <tr>
-<td width="32%">
 
-### Profile
+<td width="30%" valign="top">
+
+### Developer Snapshot
 
 | | |
 |:--|:--|
@@ -50,24 +61,39 @@ Building scalable software with clean architecture, intuitive user experiences, 
 | **Mobile** | React Native Developer |
 | **AI** | AI Systems Engineer |
 | **Education** | B.E. Computer Science (AI & ML) |
-| **Experience** | Building Production Software |
+| **Interests** | System Design • Cloud • AI |
 
 </td>
 
-<td width="68%">
+<td width="70%" valign="top">
 
 I'm a final-year **Computer Science (AI & ML)** student passionate about building production-quality software across **MERN**, **React Native**, and **Artificial Intelligence**.
 
-My focus is on designing scalable backend systems, intuitive user experiences, and applications that solve real-world problems with clean engineering rather than unnecessary complexity.
+I enjoy designing scalable backend systems, creating intuitive user experiences, and engineering applications that solve real-world problems with clean architecture and maintainable code.
 
-Recently, I released **SpendMap v1.1.0**, a modern personal finance platform, and I'm currently developing **Constella**—an AI-powered productivity ecosystem with a **web-first workspace** for planning, organization, and knowledge management, paired with a **mobile companion** for quick capture, journaling, reminders, and productivity on the go.
+I'm currently building **Constella**—an AI-powered productivity ecosystem featuring a **web-first workspace** for planning, organization, and knowledge management, paired with a **mobile companion** focused on quick capture, journaling, reminders, and productivity on the go.
 
-Outside of development, I actively participate in hackathons, enjoy system design, and continuously explore new technologies that help build better software.
+My recent work includes **SpendMap**, **Movie Night Recommender**, **Zero2Elite**, **Zaito**, and **PhishSim**, each exploring different aspects of full-stack engineering, mobile development, AI integration, and cloud-native applications.
+
+Outside development, I actively participate in national hackathons, enjoy solving challenging engineering problems, and continuously learn technologies that help build better software.
 
 </td>
+
 </tr>
 
 </table>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Hackathon_Wins-5+-1E293B?style=flat-square&labelColor=3B82F6&logo=trophy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LeetCode-196+_Solved-1E293B?style=flat-square&labelColor=FFA116&logo=leetcode&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/CodeChef-4★_Rated-1E293B?style=flat-square&labelColor=5B4638"/>
+
+<img src="https://img.shields.io/badge/Projects-10+-1E293B?style=flat-square&labelColor=22C55E"/>
+
+</div>
 
 ---
 
@@ -81,31 +107,37 @@ Outside of development, I actively participate in hackathons, enjoy system desig
 
 ## Constella
 
-AI-powered productivity ecosystem.
+AI-powered productivity ecosystem designed to unify planning, organization, and personal knowledge management across web and mobile.
 
 ### Platform
 
-- Web-first workspace
-- Mobile companion
+- Web-first Workspace
+- Mobile Companion
 
-### Features
+### Key Modules
 
-- Planning
-- Knowledge Management
+- Projects
 - Smart Notes
+- Knowledge Base
 - Journaling
 - Habit Tracking
-- AI Assistance
+- AI Assistant
 - Quick Capture
+- Calendar
 - Cross-device Sync
 
 ### Tech
 
-`React` `React Native` `Expo` `Firebase` `TypeScript`
+`React`
+`React Native`
+`Expo`
+`Firebase`
+`TypeScript`
+`Gemini`
 
-### Status
+**Status**
 
-**Active Development**
+Active Development
 
 </td>
 
@@ -113,11 +145,11 @@ AI-powered productivity ecosystem.
 
 ## SpendMap
 
-Modern personal finance ecosystem.
+Production-ready personal finance application built for modern expense tracking and wallet management.
 
 ### Features
 
-- Multi Wallet Management
+- Multi Wallets
 - Income & Expense Tracking
 - Wallet Transfers
 - Shared Wallets
@@ -128,11 +160,14 @@ Modern personal finance ecosystem.
 
 ### Tech
 
-`React Native` `Expo` `Firebase` `TypeScript`
+`React Native`
+`Expo`
+`Firebase`
+`TypeScript`
 
-### Status
+**Status**
 
-**Released (v1.1.0)**
+Released (v1.1.0)
 
 </td>
 
@@ -145,18 +180,20 @@ Movie recommendation platform powered by TMDB.
 ### Features
 
 - Smart Recommendations
-- Search
 - Genre Discovery
+- Search
 - Trending Movies
 - Responsive UI
 
 ### Tech
 
-`React` `TMDB API` `JavaScript`
+`React`
+`TMDB API`
+`JavaScript`
 
-### Status
+**Status**
 
-**Live**
+Live
 
 </td>
 
@@ -169,64 +206,15 @@ Movie recommendation platform powered by TMDB.
 # Highlights
 
 | | |
-|:--|:--|
-| **National Hackathons** | Multiple Prize Winner |
+| --- | --- |
 | **Primary Expertise** | MERN Full Stack Development |
 | **Secondary Expertise** | React Native Development |
 | **Engineering Focus** | AI Systems Engineering |
-| **Programming** | CodeChef 4★ • 160+ LeetCode Problems |
-| **Backend** | Node.js • Express • FastAPI |
+| **Programming** | CodeChef 4★ • 196+ LeetCode Problems |
 | **Cloud** | AWS • Firebase |
+| **Backend** | Node.js • Express • FastAPI |
 | **Architecture** | Clean Architecture • System Design |
-
----
-
-# Currently Exploring
-
-- Advanced MERN Architecture
-- React Native Performance Optimization
-- Multi-Agent AI Systems
-- Offline-first Applications
-- Distributed Systems
-- Cloud-native Backend Engineering
-- Scalable Software Architecture
-- System Design
-
----
-
-# Tech Stack
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript"/>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind"/>
-
-### Mobile
-
-<img src="https://skillicons.dev/icons?i=react"/>
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
-
-### AI / ML
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge"/>
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
-
-### Cloud & Tools
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,postman"/>
+| **Achievements** | Multiple National Hackathon Prize Winner |
 
 ---
 
@@ -236,13 +224,20 @@ Movie recommendation platform powered by TMDB.
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 ## SpendMap
 
 Production-ready personal finance application featuring multi-wallet management, transfers, shared wallets, analytics, reports, notifications, offline support, and secure authentication.
 
-`React Native` `Expo` `TypeScript` `Firebase` `Firestore` `Zustand`
+### Tech
+
+`React Native`
+`Expo`
+`TypeScript`
+`Firebase`
+`Firestore`
+`Zustand`
 
 **Status**
 
@@ -254,42 +249,22 @@ Released (v1.1.0)
 
 </td>
 
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
 ## Constella
 
-AI-powered productivity ecosystem designed to unify planning, organization, knowledge management, and personal productivity across web and mobile.
-
-### Overview
-
-Constella adopts a **web-first** approach for deep work while providing a **mobile companion** optimized for capturing ideas anywhere.
-
-### Core Modules
-
-- Workspace
-- Projects
-- Knowledge Base
-- Smart Notes
-- Journaling
-- Habit Tracking
-- AI Assistant
-- Quick Capture
-- Calendar
-- Cross-device Synchronization
+AI-powered productivity ecosystem focused on helping users organize knowledge, manage work, and capture ideas seamlessly across devices.
 
 ### Tech
 
-`React` `React Native` `Expo` `TypeScript` `Firebase` `Zustand` `Gemini`
+`React`
+`React Native`
+`Firebase`
+`Gemini`
 
 **Status**
 
 Active Development
-
-<!--
-<a href="#">
-<img src="https://img.shields.io/badge/Coming_Soon-111827?style=for-the-badge"/>
-</a>
--->
 
 </td>
 
@@ -307,31 +282,17 @@ Active Development
 
 ## Zero2Elite
 
-Gamified self-improvement platform inspired by RPG progression systems that motivates users through quests, achievements, experience points, and level-based progression.
+Gamified self-improvement platform inspired by RPG progression.
 
-### Features
+**Tech**
 
-- Daily Missions
-- XP & Levels
-- Achievement System
-- Habit Tracking
-- Progress Dashboard
-
-### Tech
-
-`React` `Firebase` `Firestore` `Zustand`
+`React`
+`Firebase`
+`Firestore`
 
 **Status**
 
 Live
-
-<a href="https://progresstracker28.netlify.app/">
-<img src="https://img.shields.io/badge/Live-2563EB?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/ragavan28v/zero2elite">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
-</a>
 
 </td>
 
@@ -339,31 +300,18 @@ Live
 
 ## Zaito
 
-Modern MERN banking platform focused on secure authentication, transaction management, and digital banking workflows.
+Modern MERN banking platform with secure authentication and transaction workflows.
 
-### Features
+**Tech**
 
-- JWT Authentication
-- Wallet Dashboard
-- PIN Verification
-- Transaction History
-- Secure Banking APIs
-
-### Tech
-
-`MongoDB` `Express` `React` `Node.js` `JWT`
+`MongoDB`
+`Express`
+`React`
+`Node.js`
 
 **Status**
 
 Live
-
-<a href="https://zaito-bankingapplication.onrender.com/dashboard">
-<img src="https://img.shields.io/badge/Live-2563EB?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/ragavan28v/Zaito-BankingApplication">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
-</a>
 
 </td>
 
@@ -381,31 +329,16 @@ Live
 
 ## Movie Night Recommender
 
-Movie discovery application powered by TMDB, providing personalized recommendations and an intuitive browsing experience.
+Movie recommendation application powered by TMDB.
 
-### Features
+**Tech**
 
-- Trending Movies
-- Smart Recommendations
-- Genre Discovery
-- Search
-- Responsive Interface
-
-### Tech
-
-`React` `TMDB API` `JavaScript` `CSS`
+`React`
+`TMDB API`
 
 **Status**
 
 Live
-
-<a href="YOUR_LIVE_LINK">
-<img src="https://img.shields.io/badge/Live-2563EB?style=for-the-badge"/>
-</a>
-
-<a href="YOUR_REPOSITORY">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
-</a>
 
 </td>
 
@@ -413,31 +346,18 @@ Live
 
 ## PhishSim
 
-Cybersecurity awareness platform for conducting phishing simulations, monitoring campaigns, and analyzing organizational security posture.
+Cybersecurity awareness and phishing simulation platform.
 
-### Features
+**Tech**
 
-- Email Campaigns
-- Campaign Analytics
-- Risk Reports
-- User Tracking
-- Geo Analytics
-
-### Tech
-
-`React` `Node.js` `MongoDB` `Express` `Groq API`
+`React`
+`Node.js`
+`MongoDB`
+`Express`
 
 **Status**
 
 Live
-
-<a href="https://phishsim.onrender.com/login">
-<img src="https://img.shields.io/badge/Live-2563EB?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/ragavan28v/PhishSim">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
-</a>
 
 </td>
 
@@ -452,10 +372,10 @@ Live
 | Project | Description |
 |----------|-------------|
 | **Library Auditing Robot** | Autonomous shelf auditing robot using OCR, computer vision, and robotics for misplaced book detection. |
-| **Caterpillar Autonomous Rover** | Autonomous lunar-terrain rover built with ROS2 for navigation and obstacle avoidance. |
+| **Caterpillar Autonomous Rover** | Autonomous lunar-terrain rover built with ROS2 for autonomous navigation and obstacle avoidance. |
 | **AI Story Generator** | Multi-agent storytelling platform powered by modern LLMs. |
-| **LearningPath AI** | Personalized AI roadmap generator using multi-agent reasoning and interactive learning graphs. |
-| **BlockIntelAI** | AI-powered cybersecurity intelligence platform for threat monitoring and analysis. |
+| **LearningPath AI** | AI-powered personalized learning roadmap generator using multi-agent reasoning. |
+| **BlockIntelAI** | AI-driven cybersecurity intelligence platform for threat monitoring and analysis. |
 
 ---
 
@@ -464,54 +384,68 @@ Live
 <div align="center">
 
 | Achievement | Recognition |
-|:------------|:------------|
+| :--- | :--- |
 | Caterpillar Autonomy Challenge 2026 | Finalist |
 | Hackrithm | 2nd Prize |
 | Hack The Vault | 2nd Prize |
 | Ideatronic | 2nd Prize |
 | National Data Science Hackathon | 3rd Prize |
 | CodeChef | 4★ Programmer |
-| LeetCode | 160+ Problems Solved |
+| LeetCode | 196+ Problems Solved |
 
 </div>
 
 ---
 
-# GitHub Analytics
+# Repo HUD
 
-<div align="center">
+# Activity Overview
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=ragavan28v&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+<table width="100%">
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragavan28v&layout=compact&theme=transparent&hide_border=true"/>
+<tr>
 
-<br>
+<td width="50%" align="center" valign="top">
+
+### GitHub Statistics
 
 <img
 width="100%"
-src="https://streak-stats.demolab.com?user=ragavan28v&theme=transparent&hide_border=true"/>
+src="https://github-readme-stats-7ebs.vercel.app/api?username=ragavan28v&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github"/>
 
-</div>
+</td>
 
----
+<td width="50%" align="center" valign="top">
 
-# Contribution Graph
-
-<div align="center">
+### Contribution Streak
 
 <img
 width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=ragavan28v&theme=github-compact&hide_border=true"/>
+src="https://streak-stats.demolab.com?user=ragavan28v&theme=tokyonight&hide_border=true&background=00000000"/>
 
-</div>
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" align="center">
+
+### Contribution Graph
+
+<img
+width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=ragavan28v&theme=tokyo-night&hide_border=true"/>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# Coding Profiles
+# Competitive Programming
 
 <div align="center">
 
@@ -524,27 +458,27 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=ragavan28v&t
 <br><br>
 
 <a href="YOUR_CODECHEF">
-<img src="https://img.shields.io/badge/CodeChef-4★-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeChef_Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 <a href="YOUR_GFG">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks_Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# Connect With Me
+# Connect
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 <a href="mailto:YOUR_EMAIL">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="YOUR_PORTFOLIO">
@@ -563,17 +497,17 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=ragavan28v&t
 
 > **"Good software isn't just written. It's engineered."**
 
-I enjoy building products that balance **clean architecture**, **great user experience**, and **long-term maintainability**. My goal is to create software that scales well, solves meaningful problems, and remains enjoyable to use long after its first release.
+I enjoy designing software that balances **clean architecture**, **great user experience**, and **long-term maintainability**. My goal is to build products that solve meaningful problems, scale effectively, and remain enjoyable to use long after the first release.
 
-Every project is an opportunity to learn, refine engineering practices, and deliver production-quality solutions rather than prototypes.
+Every project is an opportunity to improve engineering practices, learn new technologies, and deliver production-quality software.
 
 ---
 
 <div align="center">
 
-### Current Mission
+## Current Mission
 
-Building products that combine **MERN**, **React Native**, and **Artificial Intelligence** into software people genuinely enjoy using.
+Building products at the intersection of **MERN**, **React Native**, and **Artificial Intelligence**.
 
 <br>
 
@@ -581,9 +515,7 @@ Building products that combine **MERN**, **React Native**, and **Artificial Inte
 
 </div>
 
-<!-- ========================================================= -->
-<!-- Optional GitHub Snake Animation                           -->
-<!-- ========================================================= -->
+<!-- Optional Snake Animation -->
 
 <!--
 <div align="center">
@@ -599,11 +531,9 @@ Building products that combine **MERN**, **React Native**, and **Artificial Inte
 
 ## Thanks for Visiting
 
-If you found something interesting, consider following my journey or starring a repository you like.
+Thanks for taking the time to explore my work.
 
-I'm always open to collaborating on impactful projects, exploring new technologies, and building products that make a difference.
-
-<br>
+I'm always interested in collaborating on impactful software, open-source contributions, and innovative ideas.
 
 **MERN Full Stack Developer • React Native Developer • AI Systems Engineer**
 
