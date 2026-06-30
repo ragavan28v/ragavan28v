@@ -1,0 +1,161 @@
+<svg width="1200" height="180" viewBox="0 0 1200 180"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <linearGradient id="bg"
+                    x1="0%"
+                    y1="0%"
+                    x2="100%"
+                    y2="0%">
+
+      <stop offset="0%" stop-color="#081120"/>
+      <stop offset="40%" stop-color="#123B8F"/>
+      <stop offset="75%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#60A5FA"/>
+
+    </linearGradient>
+
+  </defs>
+
+  <!-- Background -->
+
+  <rect
+      width="1200"
+      height="180"
+      fill="url(#bg)"
+  />
+
+  <!-- Wave 1 -->
+
+  <path
+      fill="#ffffff"
+      fill-opacity=".10">
+
+    <animate
+        attributeName="d"
+        dur="10s"
+        repeatCount="indefinite"
+
+        values="
+M0,120
+C250,70 450,170 700,120
+C900,80 1050,90 1200,120
+L1200,180
+L0,180
+Z;
+
+M0,110
+C200,150 500,70 720,120
+C920,160 1080,60 1200,110
+L1200,180
+L0,180
+Z;
+
+M0,120
+C250,70 450,170 700,120
+C900,80 1050,90 1200,120
+L1200,180
+L0,180
+Z"/>
+  </path>
+
+  <!-- Wave 2 -->
+
+  <path
+      fill="#ffffff"
+      fill-opacity=".18">
+
+    <animate
+        attributeName="d"
+        dur="7s"
+        repeatCount="indefinite"
+
+        values="
+M0,130
+C250,170 450,80 700,120
+C950,170 1100,100 1200,135
+L1200,180
+L0,180
+Z;
+
+M0,115
+C200,90 500,165 700,105
+C950,60 1050,150 1200,120
+L1200,180
+L0,180
+Z;
+
+M0,130
+C250,170 450,80 700,120
+C950,170 1100,100 1200,135
+L1200,180
+L0,180
+Z"/>
+  </path>
+
+  <!-- Wave 3 -->
+
+  <path
+      fill="#ffffff"
+      fill-opacity=".28">
+
+    <animate
+        attributeName="d"
+        dur="5s"
+        repeatCount="indefinite"
+
+        values="
+M0,145
+C180,120 420,170 620,135
+C860,90 1050,160 1200,125
+L1200,180
+L0,180
+Z;
+
+M0,135
+C200,165 400,100 620,145
+C900,175 1030,80 1200,145
+L1200,180
+L0,180
+Z;
+
+M0,145
+C180,120 420,170 620,135
+C860,90 1050,160 1200,125
+L1200,180
+L0,180
+Z"/>
+  </path>
+
+  <!-- Main Title -->
+
+  <text
+      x="600"
+      y="82"
+      text-anchor="middle"
+      font-family="Segoe UI, Arial"
+      font-size="38"
+      font-weight="700"
+      fill="white">
+
+      Hi 👋 I'm Ragavan V
+
+  </text>
+
+  <!-- Subtitle -->
+
+  <text
+      x="600"
+      y="118"
+      text-anchor="middle"
+      font-family="Segoe UI, Arial"
+      font-size="18"
+      fill="white"
+      opacity=".92">
+
+      SpendMap v1.1.0 Released • Currently Building Constella
+
+  </text>
+
+</svg>
