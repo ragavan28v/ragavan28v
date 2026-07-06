@@ -3,9 +3,10 @@
 <!-- ========================================================= -->
 
 <p align="center">
-
-<img src="./assets/banner.svg" width="100%" alt="Ragavan V Banner"/>
-
+  <img
+    src="https://cdn.jsdelivr.net/gh/ragavan28v/ragavan28v@main/assets/banner.svg"
+    alt="Ragavan V Banner"
+    width="100%">
 </p>
 
 <div align="center">
@@ -34,12 +35,29 @@ Building scalable software with clean architecture, intuitive user experiences, 
 
 <br>
 
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/ragavan28v"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://leetcode.com/u/Ragavan_V/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="YOUR_CODECHEF"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ragavan28v">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Ragavan_V/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="YOUR_CODECHEF">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
 
 </div>
 
@@ -61,21 +79,21 @@ Building scalable software with clean architecture, intuitive user experiences, 
 | **Mobile** | React Native Developer |
 | **AI** | AI Systems Engineer |
 | **Education** | B.E. Computer Science (AI & ML) |
-| **Interests** | System Design • Cloud • AI |
+| **Focus** | Building Production Software |
 
 </td>
 
 <td width="70%" valign="top">
 
-I'm a final-year **Computer Science (AI & ML)** student passionate about building production-quality software across **MERN**, **React Native**, and **Artificial Intelligence**.
+I'm a final-year **Computer Science (AI & ML)** student passionate about building scalable software across **MERN**, **React Native**, and **Artificial Intelligence**.
 
-I enjoy designing scalable backend systems, creating intuitive user experiences, and engineering applications that solve real-world problems with clean architecture and maintainable code.
+I enjoy designing clean backend architectures, crafting intuitive user experiences, and engineering products that solve meaningful real-world problems without unnecessary complexity.
 
-I'm currently building **Constella**—an AI-powered productivity ecosystem featuring a **web-first workspace** for planning, organization, and knowledge management, paired with a **mobile companion** focused on quick capture, journaling, reminders, and productivity on the go.
+Recently, I shipped **SpendMap v1.1.0**, a production-ready personal finance platform featuring multi-wallet management, analytics, offline-first support, and secure Firebase authentication.
 
-My recent work includes **SpendMap**, **Movie Night Recommender**, **Zero2Elite**, **Zaito**, and **PhishSim**, each exploring different aspects of full-stack engineering, mobile development, AI integration, and cloud-native applications.
+I'm currently building **Constella**—an AI-powered productivity ecosystem designed around a **web-first workspace** for planning, organization, and knowledge management, paired with a **mobile companion** focused on quick capture, journaling, reminders, and productivity on the go.
 
-Outside development, I actively participate in national hackathons, enjoy solving challenging engineering problems, and continuously learn technologies that help build better software.
+Beyond development, I actively participate in national hackathons, enjoy system design, and continuously explore modern technologies that help build reliable, scalable software.
 
 </td>
 
@@ -91,7 +109,7 @@ Outside development, I actively participate in national hackathons, enjoy solvin
 
 <img src="https://img.shields.io/badge/CodeChef-4★_Rated-1E293B?style=flat-square&labelColor=5B4638"/>
 
-<img src="https://img.shields.io/badge/Projects-10+-1E293B?style=flat-square&labelColor=22C55E"/>
+<img src="https://img.shields.io/badge/Projects_Shipped-10+-1E293B?style=flat-square&labelColor=22C55E"/>
 
 </div>
 
@@ -101,110 +119,285 @@ Outside development, I actively participate in national hackathons, enjoy solvin
 
 ## ▸ Highlights
 
-| | |
+</div>
+
+| Category | Details |
 |:--|:--|
 | **Primary Expertise** | MERN Full Stack Development |
 | **Secondary Expertise** | React Native Development |
 | **Engineering Focus** | AI Systems Engineering |
-| **Programming** | CodeChef 4★ • 196+ LeetCode Problems |
-| **Cloud** | AWS • Firebase |
+| **Programming** | CodeChef 4★ • 196+ LeetCode Problems Solved |
 | **Backend** | Node.js • Express • FastAPI |
-| **Architecture** | Clean Architecture • System Design |
-| **Achievements** | Multiple National Hackathon Prize Winner |
-
-</div>
+| **Databases** | MongoDB • MySQL • Firebase Firestore |
+| **Cloud** | AWS • Firebase |
+| **Architecture** | Clean Architecture • REST APIs • System Design |
+| **Achievements** | Multiple National-Level Hackathon Prize Winner |
 
 ---
 
 <div align="center">
 
-## ▸ Projects
+## ▸ Featured Projects
 
 </div>
 
 <table width="100%">
+
 <tr>
+
 <td width="50%" valign="top">
 
 ### ◆ Constella
-**AI-powered productivity ecosystem** unifying planning, knowledge management, and quick capture across web and mobile.
 
-`React` `React Native` `Firebase` `Gemini` `TypeScript`
+AI-powered productivity ecosystem designed to bring planning, knowledge management, journaling, and AI assistance into a unified experience.
 
-**Modules** — Projects · Smart Notes · Knowledge Base · Journaling · Habit Tracking · AI Assistant · Calendar Sync
+**Platform**
 
-**Status** `Active Development`
+- Web-first workspace for deep work
+- Mobile companion for instant capture
+
+**Core Modules**
+
+- Projects
+- Smart Notes
+- Knowledge Base
+- Journaling
+- Habit Tracking
+- AI Assistant
+- Calendar
+- Quick Capture
+- Cross-device Sync
+
+**Tech Stack**
+
+`React`
+`React Native`
+`Expo`
+`TypeScript`
+`Firebase`
+`Firestore`
+`Zustand`
+`Gemini`
+
+**Status**
+
+`Active Development`
+
+<!--
+<a href="#">
+<img src="https://img.shields.io/badge/Coming_Soon-111827?style=for-the-badge"/>
+</a>
+-->
 
 </td>
+
 <td width="50%" valign="top">
 
 ### ◆ SpendMap
-**Production-ready personal finance app** with multi-wallet management, shared wallets, analytics, and offline support.
 
-`React Native` `Expo` `Firebase` `Firestore` `Zustand`
+Production-ready personal finance platform featuring multi-wallet management, analytics dashboards, reports, offline synchronization, and secure authentication.
 
-**Modules** — Income & Expense Tracking · Wallet Transfers · Shared Wallets · Reports · Notifications
+**Highlights**
 
-**Status** `Released v1.1.0`
-[`Repository →`](https://github.com/ragavan28v)
+- Multi Wallets
+- Income & Expense Tracking
+- Wallet Transfers
+- Shared Wallets
+- Analytics Dashboard
+- PDF & Excel Reports
+- Notifications
+- Offline-first Support
+
+**Tech Stack**
+
+`React Native`
+`Expo`
+`TypeScript`
+`Firebase`
+`Firestore`
+`Zustand`
+
+**Status**
+
+`Released • v1.1.0`
+
+<a href="https://github.com/ragavan28v/SpendMap">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
+
 </tr>
+
 </table>
 
+<br>
+
 <table width="100%">
+
 <tr>
+
 <td width="50%" valign="top">
 
 ### ◆ Zero2Elite
-Gamified self-improvement platform inspired by RPG progression systems.
 
-`React` `Firebase` `Firestore`
-**Status** `Live`
+Gamified self-improvement platform inspired by RPG progression systems to make habit building engaging.
+
+**Features**
+
+- Daily Missions
+- XP & Level System
+- Achievements
+- Habit Tracking
+- Progress Dashboard
+
+**Tech Stack**
+
+`React`
+`Firebase`
+`Firestore`
+`Zustand`
+
+**Status**
+
+`Live`
+
+<a href="https://progresstracker28.netlify.app/">
+<img src="https://img.shields.io/badge/Live-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/ragavan28v/zero2elite">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
+
 <td width="50%" valign="top">
 
 ### ◆ Zaito
-Modern MERN banking platform with secure authentication and transaction workflows.
 
-`MongoDB` `Express` `React` `Node.js`
-**Status** `Live`
+Modern MERN banking application focused on secure authentication and digital banking workflows.
+
+**Features**
+
+- JWT Authentication
+- Wallet Dashboard
+- Transaction History
+- PIN Verification
+- Secure Banking APIs
+
+**Tech Stack**
+
+`MongoDB`
+`Express`
+`React`
+`Node.js`
+`JWT`
+
+**Status**
+
+`Live`
+
+<a href="https://zaito-bankingapplication.onrender.com/dashboard">
+<img src="https://img.shields.io/badge/Live-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/ragavan28v/Zaito-BankingApplication">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
 ### ◆ Movie Night Recommender
-Movie recommendation platform powered by the TMDB API with genre discovery and trending picks.
 
-`React` `TMDB API` `JavaScript`
-**Status** `Live`
+Movie discovery application powered by TMDB with personalized recommendations and trending titles.
+
+**Features**
+
+- Smart Recommendations
+- Genre Discovery
+- Search
+- Trending Movies
+- Responsive UI
+
+**Tech Stack**
+
+`React`
+`TMDB API`
+`JavaScript`
+
+**Status**
+
+`Live`
+
+<a href="YOUR_LIVE_LINK">
+<img src="https://img.shields.io/badge/Live-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="YOUR_REPOSITORY">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
+
 <td width="50%" valign="top">
 
 ### ◆ PhishSim
-Cybersecurity awareness platform simulating phishing attacks for training purposes.
 
-`React` `Node.js` `MongoDB` `Express`
-**Status** `Live`
+Cybersecurity awareness platform for phishing simulations, campaign analytics, and organizational security insights.
+
+**Features**
+
+- Email Campaigns
+- Campaign Analytics
+- User Tracking
+- Geo Analytics
+- Risk Reports
+
+**Tech Stack**
+
+`React`
+`Node.js`
+`MongoDB`
+`Express`
+`Groq API`
+
+**Status**
+
+`Live`
+
+<a href="https://phishsim.onrender.com/login">
+<img src="https://img.shields.io/badge/Live-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/ragavan28v/PhishSim">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
+
 </tr>
+
 </table>
 
 <details>
+
 <summary><b>▸ More Projects</b></summary>
+
 <br>
 
 | Project | Description |
 |:--|:--|
-| **Library Auditing Robot** | Autonomous shelf-auditing robot using OCR, computer vision, and robotics for misplaced-book detection. |
-| **Caterpillar Autonomous Rover** | Autonomous lunar-terrain rover built with ROS2 for navigation and obstacle avoidance. |
-| **LearningPath AI** | AI-powered personalized learning roadmap generator using multi-agent reasoning. |
-| **BlockIntelAI** | AI-driven cybersecurity intelligence platform for threat monitoring and analysis. |
+| **Library Auditing Robot** | Autonomous library shelf auditing robot using OCR, computer vision, and robotics for misplaced book detection. |
+| **Caterpillar Autonomous Rover** | ROS2-powered autonomous rover designed for lunar terrain navigation and obstacle avoidance. |
+| **LearningPath AI** | Personalized AI learning roadmap generator using multi-agent reasoning and interactive planning. |
+| **BlockIntelAI** | AI-powered cybersecurity intelligence platform for threat monitoring and analysis. |
 
 </details>
 
@@ -216,13 +409,13 @@ Cybersecurity awareness platform simulating phishing attacks for training purpos
 
 | Recognition | Event |
 |:--|:--|
-| Finalist | Caterpillar Autonomy Challenge 2026 |
-| 2nd Prize | Hackrithm |
-| 2nd Prize | Hack The Vault |
-| 2nd Prize | Ideatronic |
-| 3rd Prize | National Data Science Hackathon |
-| 4★ Programmer | CodeChef |
-| 196+ Solved | LeetCode |
+| 🏅 Finalist | Caterpillar Autonomy Challenge 2026 |
+| 🥈 2nd Prize | Hackrithm |
+| 🥈 2nd Prize | Hack The Vault |
+| 🥈 2nd Prize | Ideatronic |
+| 🥉 3rd Prize | National Data Science Hackathon |
+| ⭐ 4★ Programmer | CodeChef |
+| 💻 196+ Problems Solved | LeetCode |
 
 </div>
 
@@ -230,28 +423,43 @@ Cybersecurity awareness platform simulating phishing attacks for training purpos
 
 <div align="center">
 
-## ▸ GitHub Activity
+## ▸ Development Activity
 
 <table width="100%">
+
 <tr>
+
 <td width="50%" align="center">
 
-<img width="100%" src="https://github-readme-stats-7ebs.vercel.app/api?username=ragavan28v&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github"/>
+<img
+width="100%"
+src="https://github-readme-stats-7ebs.vercel.app/api?username=ragavan28v&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github"/>
 
 </td>
+
 <td width="50%" align="center">
 
-<img width="100%" src="https://streak-stats.demolab.com?user=ragavan28v&theme=tokyonight&hide_border=true&background=00000000"/>
+<img
+width="100%"
+src="https://github-readme-streak-stats-beige-theta.vercel.app/?user=ragavan28v&theme=tokyonight&hide_border=true&background=00000000"/>
 
 </td>
+
 </tr>
+
 </table>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ragavan28v&theme=tokyo-night&hide_border=true"/>
+<br>
+
+<img
+width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=ragavan28v&theme=tokyo-night&hide_border=true"/>
 
 <br><br>
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=ragavan28v&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+<img
+width="100%"
+src="https://github-profile-trophy.vercel.app/?username=ragavan28v&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
 
 </div>
 
@@ -267,8 +475,51 @@ Cybersecurity awareness platform simulating phishing attacks for training purpos
 
 <br><br>
 
-<a href="YOUR_CODECHEF"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-<a href="YOUR_GFG"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+<table>
+<tr>
+
+<td align="center">
+
+### LeetCode
+
+**196+ Problems Solved**
+
+Data Structures • Algorithms • Interview Preparation
+
+<a href="https://leetcode.com/u/Ragavan_V/">
+<img src="https://img.shields.io/badge/View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</td>
+
+<td align="center">
+
+### CodeChef
+
+**4★ Rated Programmer**
+
+Competitive Programming • Problem Solving
+
+<a href="YOUR_CODECHEF">
+<img src="https://img.shields.io/badge/View_Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</td>
+
+<td align="center">
+
+### GeeksforGeeks
+
+Practice • Interview Preparation
+
+<a href="YOUR_GFG">
+<img src="https://img.shields.io/badge/View_Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -278,21 +529,84 @@ Cybersecurity awareness platform simulating phishing attacks for training purpos
 
 ## ▸ Engineering Philosophy
 
+</div>
+
 > **"Good software isn't just written. It's engineered."**
 
-Building products at the intersection of **MERN**, **React Native**, and **Artificial Intelligence** — with clean architecture, thoughtful UX, and long-term maintainability at the core of every release.
+I believe great software is the result of thoughtful architecture, maintainable code, and an exceptional user experience working together.
 
-<br>
+My focus is on building products that solve real problems, scale gracefully, and remain enjoyable to use long after the first release.
 
-### ◆ Connect
+Whether I'm developing a full-stack platform, a mobile application, or an AI-powered system, I strive to create software that is reliable, intuitive, and built to last.
 
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/ragavan28v"><img src="https://img.shields.io/badge/GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white"/></a>
+---
 
-<br><br>
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ragavan28v&style=for-the-badge&color=6366F1"/>
+## ▸ Current Mission
+
+Building production-ready products at the intersection of
+
+**MERN • React Native • Artificial Intelligence**
+
+while continuously improving as a software engineer through real-world projects, hackathons, and open-source contributions.
+
+</div>
+
+---
+
+<div align="center">
+
+## ▸ Connect
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ragavan28v">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<!-- Optional Snake Animation -->
+
+<!--
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ragavan28v/ragavan28v/output/github-contribution-grid-snake.svg"/>
+
+</div>
+-->
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ragavan28v&style=for-the-badge&color=2563EB"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# Thanks for Visiting
+
+Thank you for taking the time to explore my work.
+
+I'm always interested in collaborating on impactful software, innovative ideas, hackathons, and open-source projects.
+
+If you found something interesting, consider connecting with me or starring a repository.
+
+### MERN Full Stack Developer • React Native Developer • AI Systems Engineer
 
 </div>
