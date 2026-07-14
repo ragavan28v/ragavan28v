@@ -1,7 +1,7 @@
 <svg
   width="1200"
-  height="470"
-  viewBox="0 0 1200 470"
+  height="520"
+  viewBox="0 0 1200 520"
   xmlns="http://www.w3.org/2000/svg"
 >
 
@@ -17,10 +17,10 @@
       x1="0"
       y1="0"
       x2="1200"
-      y2="470"
+      y2="520"
     >
       <stop offset="0" stop-color="#FFFFFF"/>
-      <stop offset="0.55" stop-color="#F8FAFD"/>
+      <stop offset="0.52" stop-color="#F8FAFD"/>
       <stop offset="1" stop-color="#EEF5FF"/>
     </linearGradient>
 
@@ -43,9 +43,9 @@
     <linearGradient
       id="heroAccent"
       gradientUnits="userSpaceOnUse"
-      x1="520"
+      x1="500"
       y1="0"
-      x2="680"
+      x2="700"
       y2="0"
     >
       <stop offset="0" stop-color="#1D4ED8"/>
@@ -64,10 +64,10 @@
       x1="0"
       y1="0"
       x2="245"
-      y2="82"
+      y2="92"
     >
       <stop offset="0" stop-color="#FFFFFF"/>
-      <stop offset="1" stop-color="#F5F9FF"/>
+      <stop offset="1" stop-color="#F4F8FF"/>
     </linearGradient>
 
 
@@ -81,10 +81,10 @@
       x1="0"
       y1="0"
       x2="1055"
-      y2="88"
+      y2="102"
     >
-      <stop offset="0" stop-color="#F8FAFC"/>
-      <stop offset="0.65" stop-color="#F4F8FF"/>
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.60" stop-color="#F5F8FE"/>
       <stop offset="1" stop-color="#EAF3FF"/>
     </linearGradient>
 
@@ -99,7 +99,7 @@
       x1="0"
       y1="0"
       x2="300"
-      y2="58"
+      y2="66"
     >
       <stop offset="0" stop-color="#1D4ED8"/>
       <stop offset="0.55" stop-color="#2563EB"/>
@@ -116,11 +116,11 @@
       gradientUnits="userSpaceOnUse"
       x1="0"
       y1="0"
-      x2="80"
+      x2="90"
       y2="0"
     >
       <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.75"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.80"/>
       <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
     </linearGradient>
 
@@ -152,8 +152,8 @@
     <clipPath id="buttonClip">
       <rect
         width="300"
-        height="58"
-        rx="10"
+        height="66"
+        rx="11"
       />
     </clipPath>
 
@@ -166,14 +166,14 @@
 
   <rect
     width="1200"
-    height="470"
+    height="520"
     rx="18"
     fill="url(#pageBg)"
   />
 
   <rect
     width="1200"
-    height="470"
+    height="520"
     rx="18"
     fill="url(#dotGrid)"
   />
@@ -185,17 +185,17 @@
 
   <ellipse
     cx="1070"
-    cy="70"
-    rx="300"
-    ry="180"
+    cy="80"
+    rx="320"
+    ry="200"
     fill="url(#ambientGlow)"
   />
 
   <ellipse
-    cx="120"
-    cy="430"
-    rx="240"
-    ry="170"
+    cx="100"
+    cy="470"
+    rx="270"
+    ry="190"
     fill="url(#ambientGlow)"
     opacity="0.55"
   />
@@ -209,7 +209,7 @@
     x="45"
     y="30"
     width="1110"
-    height="42"
+    height="48"
     rx="10"
     fill="#FFFFFF"
     stroke="#DCE3EC"
@@ -220,19 +220,19 @@
 
   <rect
     x="60"
-    y="40"
-    width="48"
-    height="22"
+    y="42"
+    width="50"
+    height="24"
     rx="5"
     fill="#EFF6FF"
   />
 
   <text
-    x="84"
-    y="56"
+    x="85"
+    y="59"
     text-anchor="middle"
     font-family="Segoe UI, Arial, sans-serif"
-    font-size="12"
+    font-size="13"
     font-weight="800"
     fill="#1D4ED8"
   >
@@ -243,19 +243,19 @@
   <!-- ACTIVE STATUS -->
 
   <circle
-    cx="130"
-    cy="51"
+    cx="132"
+    cy="54"
     r="4"
     fill="#2563EB"
   />
 
   <text
-    x="143"
-    y="56"
+    x="146"
+    y="59"
     font-family="Consolas, monospace"
     font-size="10"
     font-weight="700"
-    letter-spacing="1"
+    letter-spacing="1.1"
     fill="#64748B"
   >
     PORTFOLIO_SYS_ACTIVE
@@ -264,7 +264,7 @@
 
   <text
     x="1130"
-    y="56"
+    y="59"
     text-anchor="end"
     font-family="Consolas, monospace"
     font-size="10"
@@ -280,10 +280,10 @@
 
   <text
     x="600"
-    y="118"
+    y="133"
     text-anchor="middle"
     font-family="Georgia, 'Times New Roman', serif"
-    font-size="38"
+    font-size="44"
     font-weight="700"
     fill="#111827"
   >
@@ -293,12 +293,12 @@
 
   <text
     x="600"
-    y="149"
+    y="169"
     text-anchor="middle"
     font-family="Segoe UI, Arial, sans-serif"
-    font-size="14"
+    font-size="16"
     font-weight="700"
-    letter-spacing="1.2"
+    letter-spacing="1.25"
     fill="#2563EB"
   >
     FULL-STACK DEVELOPER · MOBILE ENGINEER · AI SYSTEMS BUILDER
@@ -307,10 +307,10 @@
 
   <text
     x="600"
-    y="177"
+    y="201"
     text-anchor="middle"
     font-family="Segoe UI, Arial, sans-serif"
-    font-size="14"
+    font-size="16"
     fill="#64748B"
   >
     Building production-ready software across Web, Mobile and Artificial Intelligence
@@ -320,9 +320,9 @@
   <!-- HERO ACCENT LINE -->
 
   <rect
-    x="520"
-    y="195"
-    width="160"
+    x="505"
+    y="219"
+    width="190"
     height="3"
     rx="1.5"
     fill="url(#heroAccent)"
@@ -335,11 +335,11 @@
 
   <text
     x="70"
-    y="230"
+    y="252"
     font-family="Consolas, monospace"
-    font-size="10"
+    font-size="11"
     font-weight="700"
-    letter-spacing="1.3"
+    letter-spacing="1.4"
     fill="#64748B"
   >
     ENGINEERING_SNAPSHOT [ACTIVE]
@@ -350,51 +350,41 @@
   <!-- STAT CARD 1 — PROJECTS                                  -->
   <!-- ======================================================= -->
 
-  <g transform="translate(70, 246)">
+  <g transform="translate(70, 268)">
 
     <rect
       width="245"
-      height="82"
+      height="92"
       rx="11"
       fill="url(#cardSurface)"
       stroke="#DCE3EC"
     />
 
-
-    <!-- TOP LEFT -->
+    <!-- FOUR CORNERS -->
 
     <path
-      d="M0 12 V0 H12"
+      d="M0 13 V0 H13"
       fill="none"
       stroke="#2563EB"
       stroke-width="2"
     />
 
-
-    <!-- TOP RIGHT -->
-
     <path
-      d="M233 0 H245 V12"
+      d="M232 0 H245 V13"
       fill="none"
       stroke="#2563EB"
       stroke-width="2"
     />
 
-
-    <!-- BOTTOM LEFT -->
-
     <path
-      d="M0 70 V82 H12"
+      d="M0 79 V92 H13"
       fill="none"
       stroke="#2563EB"
       stroke-width="2"
     />
 
-
-    <!-- BOTTOM RIGHT -->
-
     <path
-      d="M233 82 H245 V70"
+      d="M232 92 H245 V79"
       fill="none"
       stroke="#2563EB"
       stroke-width="2"
@@ -403,23 +393,22 @@
 
     <text
       x="122.5"
-      y="38"
+      y="44"
       text-anchor="middle"
       font-family="Segoe UI, Arial, sans-serif"
-      font-size="27"
-      font-weight="700"
+      font-size="31"
+      font-weight="750"
       fill="#111827"
     >
       10+
     </text>
 
-
     <text
       x="122.5"
-      y="61"
+      y="70"
       text-anchor="middle"
       font-family="Consolas, monospace"
-      font-size="10"
+      font-size="11"
       font-weight="700"
       letter-spacing="1"
       fill="#64748B"
@@ -434,42 +423,39 @@
   <!-- STAT CARD 2 — HACKATHONS                                -->
   <!-- ======================================================= -->
 
-  <g transform="translate(340, 246)">
+  <g transform="translate(340, 268)">
 
     <rect
       width="245"
-      height="82"
+      height="92"
       rx="11"
       fill="url(#cardSurface)"
       stroke="#DCE3EC"
     />
 
-
-    <!-- FOUR CORNERS -->
-
     <path
-      d="M0 12 V0 H12"
+      d="M0 13 V0 H13"
       fill="none"
       stroke="#2563EB"
       stroke-width="2"
     />
 
     <path
-      d="M233 0 H245 V12"
+      d="M232 0 H245 V13"
       fill="none"
       stroke="#2563EB"
       stroke-width="2"
     />
 
     <path
-      d="M0 70 V82 H12"
+      d="M0 79 V92 H13"
       fill="none"
       stroke="#2563EB"
       stroke-width="2"
     />
 
     <path
-      d="M233 82 H245 V70"
+      d="M232 92 H245 V79"
       fill="none"
       stroke="#2563EB"
       stroke-width="2"
@@ -478,23 +464,22 @@
 
     <text
       x="122.5"
-      y="38"
+      y="44"
       text-anchor="middle"
       font-family="Segoe UI, Arial, sans-serif"
-      font-size="27"
-      font-weight="700"
+      font-size="31"
+      font-weight="750"
       fill="#111827"
     >
       5+
     </text>
 
-
     <text
       x="122.5"
-      y="61"
+      y="70"
       text-anchor="middle"
       font-family="Consolas, monospace"
-      font-size="10"
+      font-size="11"
       font-weight="700"
       letter-spacing="1"
       fill="#64748B"
@@ -509,42 +494,39 @@
   <!-- STAT CARD 3 — LEETCODE                                  -->
   <!-- ======================================================= -->
 
-  <g transform="translate(610, 246)">
+  <g transform="translate(610, 268)">
 
     <rect
       width="245"
-      height="82"
+      height="92"
       rx="11"
       fill="url(#cardSurface)"
       stroke="#DCE3EC"
     />
 
-
-    <!-- FOUR CORNERS -->
-
     <path
-      d="M0 12 V0 H12"
+      d="M0 13 V0 H13"
       fill="none"
       stroke="#2563EB"
       stroke-width="2"
     />
 
     <path
-      d="M233 0 H245 V12"
+      d="M232 0 H245 V13"
       fill="none"
       stroke="#2563EB"
       stroke-width="2"
     />
 
     <path
-      d="M0 70 V82 H12"
+      d="M0 79 V92 H13"
       fill="none"
       stroke="#2563EB"
       stroke-width="2"
     />
 
     <path
-      d="M233 82 H245 V70"
+      d="M232 92 H245 V79"
       fill="none"
       stroke="#2563EB"
       stroke-width="2"
@@ -553,23 +535,22 @@
 
     <text
       x="122.5"
-      y="38"
+      y="44"
       text-anchor="middle"
       font-family="Segoe UI, Arial, sans-serif"
-      font-size="27"
-      font-weight="700"
+      font-size="31"
+      font-weight="750"
       fill="#111827"
     >
       196+
     </text>
 
-
     <text
       x="122.5"
-      y="61"
+      y="70"
       text-anchor="middle"
       font-family="Consolas, monospace"
-      font-size="10"
+      font-size="11"
       font-weight="700"
       letter-spacing="1"
       fill="#64748B"
@@ -584,42 +565,39 @@
   <!-- STAT CARD 4 — CODECHEF                                  -->
   <!-- ======================================================= -->
 
-  <g transform="translate(880, 246)">
+  <g transform="translate(880, 268)">
 
     <rect
       width="245"
-      height="82"
+      height="92"
       rx="11"
       fill="url(#cardSurface)"
       stroke="#DCE3EC"
     />
 
-
-    <!-- FOUR CORNERS -->
-
     <path
-      d="M0 12 V0 H12"
+      d="M0 13 V0 H13"
       fill="none"
       stroke="#2563EB"
       stroke-width="2"
     />
 
     <path
-      d="M233 0 H245 V12"
+      d="M232 0 H245 V13"
       fill="none"
       stroke="#2563EB"
       stroke-width="2"
     />
 
     <path
-      d="M0 70 V82 H12"
+      d="M0 79 V92 H13"
       fill="none"
       stroke="#2563EB"
       stroke-width="2"
     />
 
     <path
-      d="M233 82 H245 V70"
+      d="M232 92 H245 V79"
       fill="none"
       stroke="#2563EB"
       stroke-width="2"
@@ -628,23 +606,22 @@
 
     <text
       x="122.5"
-      y="38"
+      y="44"
       text-anchor="middle"
       font-family="Segoe UI, Arial, sans-serif"
-      font-size="27"
-      font-weight="700"
+      font-size="31"
+      font-weight="750"
       fill="#111827"
     >
       4★
     </text>
 
-
     <text
       x="122.5"
-      y="61"
+      y="70"
       text-anchor="middle"
       font-family="Consolas, monospace"
-      font-size="10"
+      font-size="11"
       font-weight="700"
       letter-spacing="1"
       fill="#64748B"
@@ -659,51 +636,42 @@
   <!-- PORTFOLIO CTA PANEL                                     -->
   <!-- ======================================================= -->
 
-  <g transform="translate(70, 350)">
+  <g transform="translate(70, 382)">
 
     <rect
       width="1055"
-      height="88"
+      height="102"
       rx="12"
       fill="url(#ctaPanel)"
       stroke="#DCE3EC"
     />
 
 
-    <!-- TOP LEFT -->
+    <!-- FOUR CORNERS -->
 
     <path
-      d="M0 14 V0 H14"
+      d="M0 15 V0 H15"
       fill="none"
       stroke="#2563EB"
       stroke-width="2"
     />
 
-
-    <!-- TOP RIGHT -->
-
     <path
-      d="M1041 0 H1055 V14"
+      d="M1040 0 H1055 V15"
       fill="none"
       stroke="#2563EB"
       stroke-width="2"
     />
 
-
-    <!-- BOTTOM LEFT -->
-
     <path
-      d="M0 74 V88 H14"
+      d="M0 87 V102 H15"
       fill="none"
       stroke="#2563EB"
       stroke-width="2"
     />
 
-
-    <!-- BOTTOM RIGHT -->
-
     <path
-      d="M1041 88 H1055 V74"
+      d="M1040 102 H1055 V87"
       fill="none"
       stroke="#2563EB"
       stroke-width="2"
@@ -714,9 +682,9 @@
 
     <text
       x="30"
-      y="36"
+      y="43"
       font-family="Georgia, 'Times New Roman', serif"
-      font-size="22"
+      font-size="26"
       font-weight="700"
       fill="#111827"
     >
@@ -726,9 +694,9 @@
 
     <text
       x="30"
-      y="62"
+      y="72"
       font-family="Segoe UI, Arial, sans-serif"
-      font-size="12"
+      font-size="14"
       fill="#64748B"
     >
       Projects · Experience · Skills · Achievements · Engineering Journey
@@ -739,15 +707,15 @@
     <!-- ANIMATED PORTFOLIO BUTTON                             -->
     <!-- ===================================================== -->
 
-    <g transform="translate(725, 15)">
+    <g transform="translate(725, 18)">
 
 
-      <!-- BUTTON BACKGROUND -->
+      <!-- BUTTON -->
 
       <rect
         width="300"
-        height="58"
-        rx="10"
+        height="66"
+        rx="11"
         fill="url(#buttonBg)"
         stroke="#1D4ED8"
       >
@@ -762,29 +730,28 @@
       </rect>
 
 
-      <!-- GLASS REFLECTION -->
+      <!-- MOVING GLASS REFLECTION -->
 
       <g clip-path="url(#buttonClip)">
 
         <polygon
-          points="-100,0 -20,0 30,58 -50,58"
+          points="-110,0 -20,0 40,66 -50,66"
           fill="url(#shine)"
           opacity="0"
         >
 
           <animate
             attributeName="opacity"
-            values="0;0;0.75;0.4;0;0"
+            values="0;0;0.8;0.45;0;0"
             keyTimes="0;0.12;0.28;0.42;0.58;1"
             dur="4s"
             repeatCount="indefinite"
           />
 
-
           <animateTransform
             attributeName="transform"
             type="translate"
-            values="0 0;0 0;420 0;420 0"
+            values="0 0;0 0;430 0;430 0"
             keyTimes="0;0.12;0.58;1"
             dur="4s"
             repeatCount="indefinite"
@@ -799,12 +766,12 @@
 
       <text
         x="138"
-        y="36"
+        y="41"
         text-anchor="middle"
         font-family="Segoe UI, Arial, sans-serif"
-        font-size="13"
+        font-size="14"
         font-weight="700"
-        letter-spacing="0.5"
+        letter-spacing="0.6"
         fill="#FFFFFF"
       >
         EXPLORE PORTFOLIO
@@ -815,10 +782,10 @@
 
       <text
         x="265"
-        y="38"
+        y="43"
         text-anchor="middle"
         font-family="Segoe UI, Arial, sans-serif"
-        font-size="20"
+        font-size="22"
         fill="#FFFFFF"
       >
         →
@@ -826,7 +793,7 @@
         <animateTransform
           attributeName="transform"
           type="translate"
-          values="0 0;5 0;0 0"
+          values="0 0;6 0;0 0"
           dur="1.6s"
           repeatCount="indefinite"
         />
@@ -843,20 +810,19 @@
   <!-- ======================================================= -->
 
   <circle
-    cx="505"
-    cy="455"
+    cx="455"
+    cy="502"
     r="3"
     fill="#2563EB"
   />
 
-
   <text
     x="600"
-    y="459"
+    y="506"
     text-anchor="middle"
     font-family="Consolas, monospace"
-    font-size="9"
-    letter-spacing="0.8"
+    font-size="10"
+    letter-spacing="0.9"
     fill="#64748B"
   >
     ACTIVE_LINK_STABLE · EXPERIENCE THE FULL INTERACTIVE PORTFOLIO
