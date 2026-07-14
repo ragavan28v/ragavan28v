@@ -8,89 +8,270 @@
   <defs>
 
     <!-- ===================================================== -->
-    <!-- MAIN BACKGROUND GRADIENT                              -->
-    <!-- Explicit coordinates for reliable GitHub rendering    -->
+    <!-- PAGE BACKGROUND                                       -->
     <!-- ===================================================== -->
 
     <linearGradient
-      id="bg"
+      id="pageBg"
       gradientUnits="userSpaceOnUse"
       x1="0"
       y1="0"
       x2="1200"
+      y2="470"
+    >
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.55" stop-color="#F8FAFD"/>
+      <stop offset="1" stop-color="#EEF5FF"/>
+    </linearGradient>
+
+
+    <!-- ===================================================== -->
+    <!-- AMBIENT BLUE GLOW                                     -->
+    <!-- ===================================================== -->
+
+    <radialGradient id="ambientGlow">
+      <stop offset="0" stop-color="#3B82F6" stop-opacity="0.14"/>
+      <stop offset="0.5" stop-color="#60A5FA" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+
+
+    <!-- ===================================================== -->
+    <!-- HERO ACCENT                                           -->
+    <!-- ===================================================== -->
+
+    <linearGradient
+      id="heroAccent"
+      gradientUnits="userSpaceOnUse"
+      x1="520"
+      y1="0"
+      x2="680"
       y2="0"
     >
-      <stop offset="0" stop-color="#1E40AF"/>
-      <stop offset="0.35" stop-color="#2563EB"/>
-      <stop offset="0.70" stop-color="#3B82F6"/>
-      <stop offset="1" stop-color="#93C5FD"/>
+      <stop offset="0" stop-color="#1D4ED8"/>
+      <stop offset="0.5" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#60A5FA"/>
     </linearGradient>
 
 
     <!-- ===================================================== -->
-    <!-- GLASS CARD GRADIENT                                   -->
+    <!-- CARD SURFACE                                          -->
     <!-- ===================================================== -->
 
     <linearGradient
-      id="card"
+      id="cardSurface"
       gradientUnits="userSpaceOnUse"
       x1="0"
       y1="0"
-      x2="255"
-      y2="90"
+      x2="245"
+      y2="82"
     >
-      <stop
-        offset="0"
-        stop-color="#FFFFFF"
-        stop-opacity="0.20"
-      />
-
-      <stop
-        offset="1"
-        stop-color="#FFFFFF"
-        stop-opacity="0.08"
-      />
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#F5F9FF"/>
     </linearGradient>
 
 
     <!-- ===================================================== -->
-    <!-- CTA PANEL GRADIENT                                    -->
+    <!-- CTA PANEL                                             -->
     <!-- ===================================================== -->
 
     <linearGradient
-      id="cta"
+      id="ctaPanel"
       gradientUnits="userSpaceOnUse"
       x1="0"
       y1="0"
-      x2="1100"
-      y2="112"
+      x2="1055"
+      y2="88"
     >
-      <stop
-        offset="0"
-        stop-color="#FFFFFF"
-        stop-opacity="0.20"
-      />
-
-      <stop
-        offset="1"
-        stop-color="#FFFFFF"
-        stop-opacity="0.09"
-      />
+      <stop offset="0" stop-color="#F8FAFC"/>
+      <stop offset="0.65" stop-color="#F4F8FF"/>
+      <stop offset="1" stop-color="#EAF3FF"/>
     </linearGradient>
+
+
+    <!-- ===================================================== -->
+    <!-- PORTFOLIO BUTTON                                      -->
+    <!-- ===================================================== -->
+
+    <linearGradient
+      id="buttonBg"
+      gradientUnits="userSpaceOnUse"
+      x1="0"
+      y1="0"
+      x2="300"
+      y2="58"
+    >
+      <stop offset="0" stop-color="#1D4ED8"/>
+      <stop offset="0.55" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#3B82F6"/>
+    </linearGradient>
+
+
+    <!-- ===================================================== -->
+    <!-- GLASS SHINE                                           -->
+    <!-- ===================================================== -->
+
+    <linearGradient
+      id="shine"
+      gradientUnits="userSpaceOnUse"
+      x1="0"
+      y1="0"
+      x2="80"
+      y2="0"
+    >
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+
+
+    <!-- ===================================================== -->
+    <!-- DOT GRID                                              -->
+    <!-- ===================================================== -->
+
+    <pattern
+      id="dotGrid"
+      width="24"
+      height="24"
+      patternUnits="userSpaceOnUse"
+    >
+      <circle
+        cx="2"
+        cy="2"
+        r="1"
+        fill="#2563EB"
+        opacity="0.07"
+      />
+    </pattern>
+
+
+    <!-- ===================================================== -->
+    <!-- BUTTON CLIP                                           -->
+    <!-- ===================================================== -->
+
+    <clipPath id="buttonClip">
+      <rect
+        width="300"
+        height="58"
+        rx="10"
+      />
+    </clipPath>
 
   </defs>
 
 
   <!-- ======================================================= -->
-  <!-- BACKGROUND                                              -->
+  <!-- MAIN BACKGROUND                                         -->
   <!-- ======================================================= -->
 
   <rect
     width="1200"
     height="470"
     rx="18"
-    fill="url(#bg)"
+    fill="url(#pageBg)"
   />
+
+  <rect
+    width="1200"
+    height="470"
+    rx="18"
+    fill="url(#dotGrid)"
+  />
+
+
+  <!-- ======================================================= -->
+  <!-- AMBIENT GLOWS                                           -->
+  <!-- ======================================================= -->
+
+  <ellipse
+    cx="1070"
+    cy="70"
+    rx="300"
+    ry="180"
+    fill="url(#ambientGlow)"
+  />
+
+  <ellipse
+    cx="120"
+    cy="430"
+    rx="240"
+    ry="170"
+    fill="url(#ambientGlow)"
+    opacity="0.55"
+  />
+
+
+  <!-- ======================================================= -->
+  <!-- TOP SYSTEM BAR                                          -->
+  <!-- ======================================================= -->
+
+  <rect
+    x="45"
+    y="30"
+    width="1110"
+    height="42"
+    rx="10"
+    fill="#FFFFFF"
+    stroke="#DCE3EC"
+  />
+
+
+  <!-- RV NODE -->
+
+  <rect
+    x="60"
+    y="40"
+    width="48"
+    height="22"
+    rx="5"
+    fill="#EFF6FF"
+  />
+
+  <text
+    x="84"
+    y="56"
+    text-anchor="middle"
+    font-family="Segoe UI, Arial, sans-serif"
+    font-size="12"
+    font-weight="800"
+    fill="#1D4ED8"
+  >
+    RV
+  </text>
+
+
+  <!-- ACTIVE STATUS -->
+
+  <circle
+    cx="130"
+    cy="51"
+    r="4"
+    fill="#2563EB"
+  />
+
+  <text
+    x="143"
+    y="56"
+    font-family="Consolas, monospace"
+    font-size="10"
+    font-weight="700"
+    letter-spacing="1"
+    fill="#64748B"
+  >
+    PORTFOLIO_SYS_ACTIVE
+  </text>
+
+
+  <text
+    x="1130"
+    y="56"
+    text-anchor="end"
+    font-family="Consolas, monospace"
+    font-size="10"
+    fill="#64748B"
+  >
+    SYS_VER: 2.1.2
+  </text>
 
 
   <!-- ======================================================= -->
@@ -99,25 +280,26 @@
 
   <text
     x="600"
-    y="60"
+    y="118"
     text-anchor="middle"
-    font-family="Segoe UI, Arial, sans-serif"
-    font-size="36"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="38"
     font-weight="700"
-    fill="#FFFFFF"
+    fill="#111827"
   >
-    Hi 👋 I'm Ragavan V
+    Hi, I'm Ragavan V.
   </text>
 
 
   <text
     x="600"
-    y="96"
+    y="149"
     text-anchor="middle"
     font-family="Segoe UI, Arial, sans-serif"
-    font-size="16"
+    font-size="14"
     font-weight="700"
-    fill="#EFF6FF"
+    letter-spacing="1.2"
+    fill="#2563EB"
   >
     FULL-STACK DEVELOPER · MOBILE ENGINEER · AI SYSTEMS BUILDER
   </text>
@@ -125,151 +307,122 @@
 
   <text
     x="600"
-    y="125"
+    y="177"
     text-anchor="middle"
     font-family="Segoe UI, Arial, sans-serif"
     font-size="14"
-    fill="#FFFFFF"
-    opacity="0.90"
+    fill="#64748B"
   >
     Building production-ready software across Web, Mobile and Artificial Intelligence
   </text>
 
 
+  <!-- HERO ACCENT LINE -->
+
+  <rect
+    x="520"
+    y="195"
+    width="160"
+    height="3"
+    rx="1.5"
+    fill="url(#heroAccent)"
+  />
+
+
   <!-- ======================================================= -->
-  <!-- ANIMATED WAVES                                          -->
-  <!-- End naturally at y=155. Stats begin at y=175.           -->
+  <!-- ENGINEERING SNAPSHOT LABEL                              -->
   <!-- ======================================================= -->
 
-  <!-- WAVE 1 -->
-
-  <path
-    fill="#FFFFFF"
-    fill-opacity="0.07"
-    d="
-      M0,115
-      C220,90 430,145 650,115
-      C860,85 1040,95 1200,120
-      L1200,155
-      L0,155
-      Z
-    "
+  <text
+    x="70"
+    y="230"
+    font-family="Consolas, monospace"
+    font-size="10"
+    font-weight="700"
+    letter-spacing="1.3"
+    fill="#64748B"
   >
-
-    <animate
-      attributeName="d"
-      dur="10s"
-      repeatCount="indefinite"
-      values="
-        M0,115 C220,90 430,145 650,115 C860,85 1040,95 1200,120 L1200,155 L0,155 Z;
-
-        M0,120 C230,145 450,90 680,120 C900,145 1050,80 1200,115 L1200,155 L0,155 Z;
-
-        M0,115 C220,90 430,145 650,115 C860,85 1040,95 1200,120 L1200,155 L0,155 Z
-      "
-    />
-
-  </path>
-
-
-  <!-- WAVE 2 -->
-
-  <path
-    fill="#FFFFFF"
-    fill-opacity="0.12"
-    d="
-      M0,130
-      C230,150 450,100 680,125
-      C900,150 1050,100 1200,130
-      L1200,155
-      L0,155
-      Z
-    "
-  >
-
-    <animate
-      attributeName="d"
-      dur="7s"
-      repeatCount="indefinite"
-      values="
-        M0,130 C230,150 450,100 680,125 C900,150 1050,100 1200,130 L1200,155 L0,155 Z;
-
-        M0,125 C220,105 470,150 690,120 C900,95 1060,145 1200,125 L1200,155 L0,155 Z;
-
-        M0,130 C230,150 450,100 680,125 C900,150 1050,100 1200,130 L1200,155 L0,155 Z
-      "
-    />
-
-  </path>
-
-
-  <!-- WAVE 3 -->
-
-  <path
-    fill="#FFFFFF"
-    fill-opacity="0.18"
-    d="
-      M0,142
-      C180,125 400,150 620,135
-      C850,110 1030,145 1200,132
-      L1200,155
-      L0,155
-      Z
-    "
-  >
-
-    <animate
-      attributeName="d"
-      dur="5s"
-      repeatCount="indefinite"
-      values="
-        M0,142 C180,125 400,150 620,135 C850,110 1030,145 1200,132 L1200,155 L0,155 Z;
-
-        M0,135 C210,150 420,115 630,142 C870,150 1040,110 1200,140 L1200,155 L0,155 Z;
-
-        M0,142 C180,125 400,150 620,135 C850,110 1030,145 1200,132 L1200,155 L0,155 Z
-      "
-    />
-
-  </path>
+    ENGINEERING_SNAPSHOT [ACTIVE]
+  </text>
 
 
   <!-- ======================================================= -->
   <!-- STAT CARD 1 — PROJECTS                                  -->
   <!-- ======================================================= -->
 
-  <g transform="translate(50, 175)">
+  <g transform="translate(70, 246)">
 
     <rect
-      width="255"
-      height="90"
-      rx="13"
-      fill="url(#card)"
-      stroke="#FFFFFF"
-      stroke-opacity="0.25"
+      width="245"
+      height="82"
+      rx="11"
+      fill="url(#cardSurface)"
+      stroke="#DCE3EC"
     />
 
+
+    <!-- TOP LEFT -->
+
+    <path
+      d="M0 12 V0 H12"
+      fill="none"
+      stroke="#2563EB"
+      stroke-width="2"
+    />
+
+
+    <!-- TOP RIGHT -->
+
+    <path
+      d="M233 0 H245 V12"
+      fill="none"
+      stroke="#2563EB"
+      stroke-width="2"
+    />
+
+
+    <!-- BOTTOM LEFT -->
+
+    <path
+      d="M0 70 V82 H12"
+      fill="none"
+      stroke="#2563EB"
+      stroke-width="2"
+    />
+
+
+    <!-- BOTTOM RIGHT -->
+
+    <path
+      d="M233 82 H245 V70"
+      fill="none"
+      stroke="#2563EB"
+      stroke-width="2"
+    />
+
+
     <text
-      x="127.5"
-      y="40"
+      x="122.5"
+      y="38"
       text-anchor="middle"
       font-family="Segoe UI, Arial, sans-serif"
-      font-size="29"
+      font-size="27"
       font-weight="700"
-      fill="#FFFFFF"
+      fill="#111827"
     >
       10+
     </text>
 
+
     <text
-      x="127.5"
-      y="66"
+      x="122.5"
+      y="61"
       text-anchor="middle"
-      font-family="Segoe UI, Arial, sans-serif"
-      font-size="11"
-      font-weight="600"
-      letter-spacing="1.3"
-      fill="#EFF6FF"
+      font-family="Consolas, monospace"
+      font-size="10"
+      font-weight="700"
+      letter-spacing="1"
+      fill="#64748B"
     >
       PROJECTS SHIPPED
     </text>
@@ -281,38 +434,70 @@
   <!-- STAT CARD 2 — HACKATHONS                                -->
   <!-- ======================================================= -->
 
-  <g transform="translate(330, 175)">
+  <g transform="translate(340, 246)">
 
     <rect
-      width="255"
-      height="90"
-      rx="13"
-      fill="url(#card)"
-      stroke="#FFFFFF"
-      stroke-opacity="0.25"
+      width="245"
+      height="82"
+      rx="11"
+      fill="url(#cardSurface)"
+      stroke="#DCE3EC"
     />
 
+
+    <!-- FOUR CORNERS -->
+
+    <path
+      d="M0 12 V0 H12"
+      fill="none"
+      stroke="#2563EB"
+      stroke-width="2"
+    />
+
+    <path
+      d="M233 0 H245 V12"
+      fill="none"
+      stroke="#2563EB"
+      stroke-width="2"
+    />
+
+    <path
+      d="M0 70 V82 H12"
+      fill="none"
+      stroke="#2563EB"
+      stroke-width="2"
+    />
+
+    <path
+      d="M233 82 H245 V70"
+      fill="none"
+      stroke="#2563EB"
+      stroke-width="2"
+    />
+
+
     <text
-      x="127.5"
-      y="40"
+      x="122.5"
+      y="38"
       text-anchor="middle"
       font-family="Segoe UI, Arial, sans-serif"
-      font-size="29"
+      font-size="27"
       font-weight="700"
-      fill="#FFFFFF"
+      fill="#111827"
     >
       5+
     </text>
 
+
     <text
-      x="127.5"
-      y="66"
+      x="122.5"
+      y="61"
       text-anchor="middle"
-      font-family="Segoe UI, Arial, sans-serif"
-      font-size="11"
-      font-weight="600"
-      letter-spacing="1.3"
-      fill="#EFF6FF"
+      font-family="Consolas, monospace"
+      font-size="10"
+      font-weight="700"
+      letter-spacing="1"
+      fill="#64748B"
     >
       HACKATHON WINS
     </text>
@@ -324,38 +509,70 @@
   <!-- STAT CARD 3 — LEETCODE                                  -->
   <!-- ======================================================= -->
 
-  <g transform="translate(610, 175)">
+  <g transform="translate(610, 246)">
 
     <rect
-      width="255"
-      height="90"
-      rx="13"
-      fill="url(#card)"
-      stroke="#FFFFFF"
-      stroke-opacity="0.25"
+      width="245"
+      height="82"
+      rx="11"
+      fill="url(#cardSurface)"
+      stroke="#DCE3EC"
     />
 
+
+    <!-- FOUR CORNERS -->
+
+    <path
+      d="M0 12 V0 H12"
+      fill="none"
+      stroke="#2563EB"
+      stroke-width="2"
+    />
+
+    <path
+      d="M233 0 H245 V12"
+      fill="none"
+      stroke="#2563EB"
+      stroke-width="2"
+    />
+
+    <path
+      d="M0 70 V82 H12"
+      fill="none"
+      stroke="#2563EB"
+      stroke-width="2"
+    />
+
+    <path
+      d="M233 82 H245 V70"
+      fill="none"
+      stroke="#2563EB"
+      stroke-width="2"
+    />
+
+
     <text
-      x="127.5"
-      y="40"
+      x="122.5"
+      y="38"
       text-anchor="middle"
       font-family="Segoe UI, Arial, sans-serif"
-      font-size="29"
+      font-size="27"
       font-weight="700"
-      fill="#FFFFFF"
+      fill="#111827"
     >
       196+
     </text>
 
+
     <text
-      x="127.5"
-      y="66"
+      x="122.5"
+      y="61"
       text-anchor="middle"
-      font-family="Segoe UI, Arial, sans-serif"
-      font-size="11"
-      font-weight="600"
-      letter-spacing="1.3"
-      fill="#EFF6FF"
+      font-family="Consolas, monospace"
+      font-size="10"
+      font-weight="700"
+      letter-spacing="1"
+      fill="#64748B"
     >
       LEETCODE SOLVED
     </text>
@@ -367,38 +584,70 @@
   <!-- STAT CARD 4 — CODECHEF                                  -->
   <!-- ======================================================= -->
 
-  <g transform="translate(890, 175)">
+  <g transform="translate(880, 246)">
 
     <rect
-      width="255"
-      height="90"
-      rx="13"
-      fill="url(#card)"
-      stroke="#FFFFFF"
-      stroke-opacity="0.25"
+      width="245"
+      height="82"
+      rx="11"
+      fill="url(#cardSurface)"
+      stroke="#DCE3EC"
     />
 
+
+    <!-- FOUR CORNERS -->
+
+    <path
+      d="M0 12 V0 H12"
+      fill="none"
+      stroke="#2563EB"
+      stroke-width="2"
+    />
+
+    <path
+      d="M233 0 H245 V12"
+      fill="none"
+      stroke="#2563EB"
+      stroke-width="2"
+    />
+
+    <path
+      d="M0 70 V82 H12"
+      fill="none"
+      stroke="#2563EB"
+      stroke-width="2"
+    />
+
+    <path
+      d="M233 82 H245 V70"
+      fill="none"
+      stroke="#2563EB"
+      stroke-width="2"
+    />
+
+
     <text
-      x="127.5"
-      y="40"
+      x="122.5"
+      y="38"
       text-anchor="middle"
       font-family="Segoe UI, Arial, sans-serif"
-      font-size="29"
+      font-size="27"
       font-weight="700"
-      fill="#FFFFFF"
+      fill="#111827"
     >
       4★
     </text>
 
+
     <text
-      x="127.5"
-      y="66"
+      x="122.5"
+      y="61"
       text-anchor="middle"
-      font-family="Segoe UI, Arial, sans-serif"
-      font-size="11"
-      font-weight="600"
-      letter-spacing="1.3"
-      fill="#EFF6FF"
+      font-family="Consolas, monospace"
+      font-size="10"
+      font-weight="700"
+      letter-spacing="1"
+      fill="#64748B"
     >
       CODECHEF
     </text>
@@ -410,81 +659,178 @@
   <!-- PORTFOLIO CTA PANEL                                     -->
   <!-- ======================================================= -->
 
-  <g transform="translate(50, 290)">
+  <g transform="translate(70, 350)">
 
     <rect
-      width="1100"
-      height="115"
-      rx="15"
-      fill="url(#cta)"
-      stroke="#FFFFFF"
-      stroke-opacity="0.28"
+      width="1055"
+      height="88"
+      rx="12"
+      fill="url(#ctaPanel)"
+      stroke="#DCE3EC"
     />
 
 
-    <!-- CTA LEFT CONTENT -->
+    <!-- TOP LEFT -->
+
+    <path
+      d="M0 14 V0 H14"
+      fill="none"
+      stroke="#2563EB"
+      stroke-width="2"
+    />
+
+
+    <!-- TOP RIGHT -->
+
+    <path
+      d="M1041 0 H1055 V14"
+      fill="none"
+      stroke="#2563EB"
+      stroke-width="2"
+    />
+
+
+    <!-- BOTTOM LEFT -->
+
+    <path
+      d="M0 74 V88 H14"
+      fill="none"
+      stroke="#2563EB"
+      stroke-width="2"
+    />
+
+
+    <!-- BOTTOM RIGHT -->
+
+    <path
+      d="M1041 88 H1055 V74"
+      fill="none"
+      stroke="#2563EB"
+      stroke-width="2"
+    />
+
+
+    <!-- LEFT CONTENT -->
 
     <text
-      x="35"
-      y="43"
-      font-family="Segoe UI, Arial, sans-serif"
-      font-size="24"
+      x="30"
+      y="36"
+      font-family="Georgia, 'Times New Roman', serif"
+      font-size="22"
       font-weight="700"
-      fill="#FFFFFF"
+      fill="#111827"
     >
       Explore the work behind the code.
     </text>
 
 
     <text
-      x="35"
-      y="74"
+      x="30"
+      y="62"
       font-family="Segoe UI, Arial, sans-serif"
-      font-size="13"
-      fill="#EFF6FF"
+      font-size="12"
+      fill="#64748B"
     >
-      Projects • Experience • Skills • Achievements • Engineering Journey
+      Projects · Experience · Skills · Achievements · Engineering Journey
     </text>
 
 
-    <!-- CTA BUTTON -->
+    <!-- ===================================================== -->
+    <!-- ANIMATED PORTFOLIO BUTTON                             -->
+    <!-- ===================================================== -->
 
-    <g transform="translate(745, 25)">
+    <g transform="translate(725, 15)">
+
+
+      <!-- BUTTON BACKGROUND -->
 
       <rect
-        width="320"
-        height="65"
-        rx="12"
-        fill="#FFFFFF"
-        fill-opacity="0.16"
-        stroke="#FFFFFF"
-        stroke-opacity="0.40"
-      />
+        width="300"
+        height="58"
+        rx="10"
+        fill="url(#buttonBg)"
+        stroke="#1D4ED8"
+      >
 
+        <animate
+          attributeName="stroke-opacity"
+          values="0.65;1;0.65"
+          dur="3.5s"
+          repeatCount="indefinite"
+        />
+
+      </rect>
+
+
+      <!-- GLASS REFLECTION -->
+
+      <g clip-path="url(#buttonClip)">
+
+        <polygon
+          points="-100,0 -20,0 30,58 -50,58"
+          fill="url(#shine)"
+          opacity="0"
+        >
+
+          <animate
+            attributeName="opacity"
+            values="0;0;0.75;0.4;0;0"
+            keyTimes="0;0.12;0.28;0.42;0.58;1"
+            dur="4s"
+            repeatCount="indefinite"
+          />
+
+
+          <animateTransform
+            attributeName="transform"
+            type="translate"
+            values="0 0;0 0;420 0;420 0"
+            keyTimes="0;0.12;0.58;1"
+            dur="4s"
+            repeatCount="indefinite"
+          />
+
+        </polygon>
+
+      </g>
+
+
+      <!-- BUTTON TEXT -->
 
       <text
-        x="140"
-        y="40"
+        x="138"
+        y="36"
         text-anchor="middle"
         font-family="Segoe UI, Arial, sans-serif"
-        font-size="14"
+        font-size="13"
         font-weight="700"
-        letter-spacing="0.7"
+        letter-spacing="0.5"
         fill="#FFFFFF"
       >
         EXPLORE PORTFOLIO
       </text>
 
 
+      <!-- ANIMATED ARROW -->
+
       <text
-        x="280"
-        y="42"
+        x="265"
+        y="38"
         text-anchor="middle"
         font-family="Segoe UI, Arial, sans-serif"
-        font-size="23"
+        font-size="20"
         fill="#FFFFFF"
       >
         →
+
+        <animateTransform
+          attributeName="transform"
+          type="translate"
+          values="0 0;5 0;0 0"
+          dur="1.6s"
+          repeatCount="indefinite"
+        />
+
       </text>
 
     </g>
@@ -493,20 +839,27 @@
 
 
   <!-- ======================================================= -->
-  <!-- FOOTER                                                  -->
+  <!-- BOTTOM STATUS                                           -->
   <!-- ======================================================= -->
+
+  <circle
+    cx="505"
+    cy="455"
+    r="3"
+    fill="#2563EB"
+  />
+
 
   <text
     x="600"
-    y="444"
+    y="459"
     text-anchor="middle"
-    font-family="Segoe UI, Arial, sans-serif"
-    font-size="12"
-    letter-spacing="0.4"
-    fill="#EFF6FF"
-    opacity="0.88"
+    font-family="Consolas, monospace"
+    font-size="9"
+    letter-spacing="0.8"
+    fill="#64748B"
   >
-    Don't just read about what I build — experience it.
+    ACTIVE_LINK_STABLE · EXPERIENCE THE FULL INTERACTIVE PORTFOLIO
   </text>
 
 </svg>
