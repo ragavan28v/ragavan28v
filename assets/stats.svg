@@ -1,0 +1,204 @@
+<svg width="1200" height="170" viewBox="0 0 1200 170"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <linearGradient id="background"
+                    x1="0%" y1="0%"
+                    x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#081120"/>
+      <stop offset="40%" stop-color="#123B8F"/>
+      <stop offset="75%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#60A5FA"/>
+    </linearGradient>
+
+    <linearGradient id="card"
+                    x1="0%" y1="0%"
+                    x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity=".14"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity=".06"/>
+    </linearGradient>
+
+  </defs>
+
+  <!-- Background -->
+
+  <rect
+    width="1200"
+    height="170"
+    rx="16"
+    fill="url(#background)"
+  />
+
+  <!-- Section title -->
+
+  <text
+    x="600"
+    y="38"
+    text-anchor="middle"
+    font-family="Segoe UI, Arial, sans-serif"
+    font-size="17"
+    font-weight="600"
+    letter-spacing="2"
+    fill="#FFFFFF"
+    opacity=".85">
+    ENGINEERING SNAPSHOT
+  </text>
+
+
+  <!-- CARD 1 -->
+
+  <g transform="translate(50, 58)">
+
+    <rect
+      width="255"
+      height="85"
+      rx="12"
+      fill="url(#card)"
+      stroke="#FFFFFF"
+      stroke-opacity=".18"
+    />
+
+    <text
+      x="127.5"
+      y="38"
+      text-anchor="middle"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="28"
+      font-weight="700"
+      fill="#FFFFFF">
+      10+
+    </text>
+
+    <text
+      x="127.5"
+      y="65"
+      text-anchor="middle"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="12"
+      font-weight="600"
+      letter-spacing="1.5"
+      fill="#DBEAFE">
+      PROJECTS SHIPPED
+    </text>
+
+  </g>
+
+
+  <!-- CARD 2 -->
+
+  <g transform="translate(330, 58)">
+
+    <rect
+      width="255"
+      height="85"
+      rx="12"
+      fill="url(#card)"
+      stroke="#FFFFFF"
+      stroke-opacity=".18"
+    />
+
+    <text
+      x="127.5"
+      y="38"
+      text-anchor="middle"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="28"
+      font-weight="700"
+      fill="#FFFFFF">
+      5+
+    </text>
+
+    <text
+      x="127.5"
+      y="65"
+      text-anchor="middle"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="12"
+      font-weight="600"
+      letter-spacing="1.5"
+      fill="#DBEAFE">
+      HACKATHON WINS
+    </text>
+
+  </g>
+
+
+  <!-- CARD 3 -->
+
+  <g transform="translate(610, 58)">
+
+    <rect
+      width="255"
+      height="85"
+      rx="12"
+      fill="url(#card)"
+      stroke="#FFFFFF"
+      stroke-opacity=".18"
+    />
+
+    <text
+      x="127.5"
+      y="38"
+      text-anchor="middle"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="28"
+      font-weight="700"
+      fill="#FFFFFF">
+      196+
+    </text>
+
+    <text
+      x="127.5"
+      y="65"
+      text-anchor="middle"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="12"
+      font-weight="600"
+      letter-spacing="1.5"
+      fill="#DBEAFE">
+      LEETCODE SOLVED
+    </text>
+
+  </g>
+
+
+  <!-- CARD 4 -->
+
+  <g transform="translate(890, 58)">
+
+    <rect
+      width="255"
+      height="85"
+      rx="12"
+      fill="url(#card)"
+      stroke="#FFFFFF"
+      stroke-opacity=".18"
+    />
+
+    <text
+      x="127.5"
+      y="38"
+      text-anchor="middle"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="28"
+      font-weight="700"
+      fill="#FFFFFF">
+      4★
+    </text>
+
+    <text
+      x="127.5"
+      y="65"
+      text-anchor="middle"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="12"
+      font-weight="600"
+      letter-spacing="1.5"
+      fill="#DBEAFE">
+      CODECHEF
+    </text>
+
+  </g>
+
+</svg>
