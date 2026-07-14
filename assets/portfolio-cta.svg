@@ -1,0 +1,115 @@
+<svg width="1200" height="150" viewBox="0 0 1200 150"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <linearGradient id="background"
+                    x1="0%" y1="0%"
+                    x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#081120"/>
+      <stop offset="40%" stop-color="#123B8F"/>
+      <stop offset="75%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#60A5FA"/>
+    </linearGradient>
+
+    <linearGradient id="button"
+                    x1="0%" y1="0%"
+                    x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#60A5FA"/>
+    </linearGradient>
+
+  </defs>
+
+
+  <!-- Main background -->
+
+  <rect
+    width="1200"
+    height="150"
+    rx="16"
+    fill="url(#background)"
+  />
+
+
+  <!-- Decorative glow -->
+
+  <circle
+    cx="1080"
+    cy="30"
+    r="170"
+    fill="#FFFFFF"
+    opacity=".05"
+  />
+
+  <circle
+    cx="90"
+    cy="160"
+    r="130"
+    fill="#60A5FA"
+    opacity=".08"
+  />
+
+
+  <!-- Left content -->
+
+  <text
+    x="55"
+    y="55"
+    font-family="Segoe UI, Arial, sans-serif"
+    font-size="26"
+    font-weight="700"
+    fill="#FFFFFF">
+    Explore the work behind the code.
+  </text>
+
+  <text
+    x="55"
+    y="88"
+    font-family="Segoe UI, Arial, sans-serif"
+    font-size="15"
+    fill="#DBEAFE">
+    Projects  •  Experience  •  Skills  •  Achievements  •  Engineering Journey
+  </text>
+
+
+  <!-- CTA button -->
+
+  <g transform="translate(820, 43)">
+
+    <rect
+      width="325"
+      height="64"
+      rx="12"
+      fill="#FFFFFF"
+      fill-opacity=".13"
+      stroke="#FFFFFF"
+      stroke-opacity=".30"
+    />
+
+    <text
+      x="145"
+      y="39"
+      text-anchor="middle"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="15"
+      font-weight="700"
+      letter-spacing=".7"
+      fill="#FFFFFF">
+      EXPLORE PORTFOLIO
+    </text>
+
+    <text
+      x="285"
+      y="41"
+      text-anchor="middle"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="24"
+      font-weight="400"
+      fill="#FFFFFF">
+      →
+    </text>
+
+  </g>
+
+</svg>
