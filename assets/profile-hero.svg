@@ -1,7 +1,7 @@
 <svg
   width="1200"
   height="580"
-  viewBox="0 0 1200 620"
+  viewBox="0 0 1200 580"
   xmlns="http://www.w3.org/2000/svg"
 >
 
@@ -17,11 +17,12 @@
       x1="0"
       y1="0"
       x2="1200"
-      y2="620"
+      y2="580"
     >
-      <stop offset="0" stop-color="#FFFFFF"/>
-      <stop offset="0.52" stop-color="#F8FAFD"/>
-      <stop offset="1" stop-color="#EAF3FF"/>
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="45%" stop-color="#F9FBFF"/>
+      <stop offset="75%" stop-color="#F3F8FF"/>
+      <stop offset="100%" stop-color="#EAF3FF"/>
     </linearGradient>
 
 
@@ -29,28 +30,71 @@
     <!-- AMBIENT BLUE GLOW                                     -->
     <!-- ===================================================== -->
 
-    <radialGradient id="ambientGlow">
-      <stop offset="0" stop-color="#3B82F6" stop-opacity="0.15"/>
-      <stop offset="0.5" stop-color="#60A5FA" stop-opacity="0.06"/>
-      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    <radialGradient
+      id="ambientGlow"
+      cx="50%"
+      cy="50%"
+      r="50%"
+    >
+      <stop
+        offset="0%"
+        stop-color="#3B82F6"
+        stop-opacity="0.16"
+      />
+
+      <stop
+        offset="45%"
+        stop-color="#60A5FA"
+        stop-opacity="0.07"
+      />
+
+      <stop
+        offset="100%"
+        stop-color="#FFFFFF"
+        stop-opacity="0"
+      />
     </radialGradient>
 
 
     <!-- ===================================================== -->
-    <!-- HERO ACCENT                                           -->
+    <!-- SECONDARY AMBIENT GLOW                                -->
+    <!-- ===================================================== -->
+
+    <radialGradient
+      id="secondaryGlow"
+      cx="50%"
+      cy="50%"
+      r="50%"
+    >
+      <stop
+        offset="0%"
+        stop-color="#2563EB"
+        stop-opacity="0.08"
+      />
+
+      <stop
+        offset="100%"
+        stop-color="#FFFFFF"
+        stop-opacity="0"
+      />
+    </radialGradient>
+
+
+    <!-- ===================================================== -->
+    <!-- HERO ACCENT LINE                                      -->
     <!-- ===================================================== -->
 
     <linearGradient
       id="heroAccent"
       gradientUnits="userSpaceOnUse"
-      x1="490"
+      x1="500"
       y1="0"
-      x2="710"
+      x2="700"
       y2="0"
     >
-      <stop offset="0" stop-color="#1D4ED8"/>
-      <stop offset="0.5" stop-color="#2563EB"/>
-      <stop offset="1" stop-color="#60A5FA"/>
+      <stop offset="0%" stop-color="#1D4ED8"/>
+      <stop offset="48%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#60A5FA"/>
     </linearGradient>
 
 
@@ -64,15 +108,56 @@
       x1="0"
       y1="0"
       x2="255"
-      y2="120"
+      y2="105"
     >
-      <stop offset="0" stop-color="#FFFFFF"/>
-      <stop offset="1" stop-color="#F2F7FF"/>
+      <stop offset="0%" stop-color="#FFFFFF"/>
+
+      <stop
+        offset="55%"
+        stop-color="#FAFCFF"
+      />
+
+      <stop
+        offset="100%"
+        stop-color="#F1F6FE"
+      />
     </linearGradient>
 
 
     <!-- ===================================================== -->
-    <!-- CTA PANEL                                             -->
+    <!-- STAT CARD SUBTLE HIGHLIGHT                            -->
+    <!-- ===================================================== -->
+
+    <linearGradient
+      id="cardHighlight"
+      gradientUnits="userSpaceOnUse"
+      x1="0"
+      y1="0"
+      x2="255"
+      y2="0"
+    >
+      <stop
+        offset="0%"
+        stop-color="#2563EB"
+        stop-opacity="0"
+      />
+
+      <stop
+        offset="50%"
+        stop-color="#60A5FA"
+        stop-opacity="0.08"
+      />
+
+      <stop
+        offset="100%"
+        stop-color="#2563EB"
+        stop-opacity="0"
+      />
+    </linearGradient>
+
+
+    <!-- ===================================================== -->
+    <!-- CTA PANEL GRADIENT                                    -->
     <!-- ===================================================== -->
 
     <linearGradient
@@ -81,16 +166,53 @@
       x1="0"
       y1="0"
       x2="1080"
-      y2="125"
+      y2="120"
     >
-      <stop offset="0" stop-color="#FFFFFF"/>
-      <stop offset="0.6" stop-color="#F5F8FE"/>
-      <stop offset="1" stop-color="#E6F0FF"/>
+      <stop offset="0%" stop-color="#FFFFFF"/>
+
+      <stop
+        offset="52%"
+        stop-color="#F8FAFE"
+      />
+
+      <stop
+        offset="78%"
+        stop-color="#F1F6FF"
+      />
+
+      <stop
+        offset="100%"
+        stop-color="#E5F0FF"
+      />
     </linearGradient>
 
 
     <!-- ===================================================== -->
-    <!-- PORTFOLIO BUTTON                                      -->
+    <!-- CTA AMBIENT GLOW                                      -->
+    <!-- ===================================================== -->
+
+    <radialGradient
+      id="ctaGlow"
+      cx="85%"
+      cy="50%"
+      r="60%"
+    >
+      <stop
+        offset="0%"
+        stop-color="#3B82F6"
+        stop-opacity="0.10"
+      />
+
+      <stop
+        offset="100%"
+        stop-color="#FFFFFF"
+        stop-opacity="0"
+      />
+    </radialGradient>
+
+
+    <!-- ===================================================== -->
+    <!-- PORTFOLIO BUTTON GRADIENT                             -->
     <!-- ===================================================== -->
 
     <linearGradient
@@ -101,9 +223,38 @@
       x2="330"
       y2="76"
     >
-      <stop offset="0" stop-color="#1D4ED8"/>
-      <stop offset="0.55" stop-color="#2563EB"/>
-      <stop offset="1" stop-color="#3B82F6"/>
+      <stop offset="0%" stop-color="#1D4ED8"/>
+      <stop offset="48%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#3B82F6"/>
+    </linearGradient>
+
+
+    <!-- ===================================================== -->
+    <!-- BUTTON BORDER GRADIENT                                -->
+    <!-- ===================================================== -->
+
+    <linearGradient
+      id="buttonBorder"
+      gradientUnits="userSpaceOnUse"
+      x1="0"
+      y1="0"
+      x2="330"
+      y2="76"
+    >
+      <stop
+        offset="0%"
+        stop-color="#1D4ED8"
+      />
+
+      <stop
+        offset="50%"
+        stop-color="#93C5FD"
+      />
+
+      <stop
+        offset="100%"
+        stop-color="#2563EB"
+      />
     </linearGradient>
 
 
@@ -119,9 +270,35 @@
       x2="100"
       y2="0"
     >
-      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.82"/>
-      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop
+        offset="0%"
+        stop-color="#FFFFFF"
+        stop-opacity="0"
+      />
+
+      <stop
+        offset="42%"
+        stop-color="#FFFFFF"
+        stop-opacity="0.20"
+      />
+
+      <stop
+        offset="50%"
+        stop-color="#FFFFFF"
+        stop-opacity="0.88"
+      />
+
+      <stop
+        offset="58%"
+        stop-color="#FFFFFF"
+        stop-opacity="0.20"
+      />
+
+      <stop
+        offset="100%"
+        stop-color="#FFFFFF"
+        stop-opacity="0"
+      />
     </linearGradient>
 
 
@@ -140,7 +317,7 @@
         cy="2"
         r="1"
         fill="#2563EB"
-        opacity="0.075"
+        opacity="0.065"
       />
     </pattern>
 
@@ -157,6 +334,19 @@
       />
     </clipPath>
 
+
+    <!-- ===================================================== -->
+    <!-- CTA CLIP                                              -->
+    <!-- ===================================================== -->
+
+    <clipPath id="ctaClip">
+      <rect
+        width="1080"
+        height="120"
+        rx="13"
+      />
+    </clipPath>
+
   </defs>
 
 
@@ -166,14 +356,19 @@
 
   <rect
     width="1200"
-    height="620"
+    height="580"
     rx="18"
     fill="url(#pageBg)"
   />
 
+
+  <!-- ======================================================= -->
+  <!-- DOT GRID                                                -->
+  <!-- ======================================================= -->
+
   <rect
     width="1200"
-    height="620"
+    height="580"
     rx="18"
     fill="url(#dotGrid)"
   />
@@ -186,18 +381,17 @@
   <ellipse
     cx="1080"
     cy="100"
-    rx="330"
-    ry="230"
+    rx="350"
+    ry="250"
     fill="url(#ambientGlow)"
   />
 
   <ellipse
-    cx="80"
-    cy="560"
-    rx="300"
-    ry="220"
-    fill="url(#ambientGlow)"
-    opacity="0.55"
+    cx="100"
+    cy="530"
+    rx="330"
+    ry="240"
+    fill="url(#secondaryGlow)"
   />
 
 
@@ -212,6 +406,7 @@
     height="56"
     rx="11"
     fill="#FFFFFF"
+    fill-opacity="0.94"
     stroke="#D8E1EC"
     stroke-width="1.2"
   />
@@ -241,14 +436,24 @@
   </text>
 
 
-  <!-- ACTIVE STATUS -->
+  <!-- ACTIVE STATUS DOT -->
 
   <circle
     cx="140"
     cy="56"
     r="5"
     fill="#2563EB"
-  />
+  >
+    <animate
+      attributeName="opacity"
+      values="1;0.45;1"
+      dur="2.4s"
+      repeatCount="indefinite"
+    />
+  </circle>
+
+
+  <!-- ACTIVE STATUS TEXT -->
 
   <text
     x="157"
@@ -286,7 +491,7 @@
     y="158"
     text-anchor="middle"
     font-family="Georgia, 'Times New Roman', serif"
-    font-size="54"
+    font-size="50"
     font-weight="700"
     fill="#111827"
   >
@@ -298,12 +503,12 @@
 
   <text
     x="600"
-    y="204"
+    y="202"
     text-anchor="middle"
     font-family="Segoe UI, Arial, sans-serif"
-    font-size="19"
+    font-size="18"
     font-weight="700"
-    letter-spacing="1.2"
+    letter-spacing="1.1"
     fill="#2563EB"
   >
     FULL-STACK DEVELOPER · MOBILE ENGINEER · AI SYSTEMS BUILDER
@@ -314,10 +519,10 @@
 
   <text
     x="600"
-    y="244"
+    y="239"
     text-anchor="middle"
     font-family="Segoe UI, Arial, sans-serif"
-    font-size="18"
+    font-size="17"
     fill="#5B687A"
   >
     Building production-ready software across Web, Mobile and Artificial Intelligence
@@ -327,9 +532,9 @@
   <!-- ACCENT LINE -->
 
   <rect
-    x="490"
-    y="266"
-    width="220"
+    x="505"
+    y="260"
+    width="190"
     height="4"
     rx="2"
     fill="url(#heroAccent)"
@@ -342,9 +547,9 @@
 
   <text
     x="60"
-    y="310"
+    y="294"
     font-family="Consolas, monospace"
-    font-size="13"
+    font-size="12"
     font-weight="700"
     letter-spacing="1.4"
     fill="#526176"
@@ -357,19 +562,25 @@
   <!-- STAT CARD 1 — PROJECTS                                  -->
   <!-- ======================================================= -->
 
-  <g transform="translate(60, 330)">
+  <g transform="translate(60, 310)">
 
     <rect
       width="255"
-      height="120"
+      height="105"
       rx="12"
       fill="url(#cardSurface)"
       stroke="#D8E1EC"
       stroke-width="1.2"
     />
 
+    <rect
+      width="255"
+      height="105"
+      rx="12"
+      fill="url(#cardHighlight)"
+    />
 
-    <!-- FOUR CORNER BRACKETS -->
+    <!-- CORNER BRACKETS -->
 
     <path
       d="M0 16 V0 H16"
@@ -386,14 +597,14 @@
     />
 
     <path
-      d="M0 104 V120 H16"
+      d="M0 89 V105 H16"
       fill="none"
       stroke="#2563EB"
       stroke-width="2.5"
     />
 
     <path
-      d="M239 120 H255 V104"
+      d="M239 105 H255 V89"
       fill="none"
       stroke="#2563EB"
       stroke-width="2.5"
@@ -404,11 +615,11 @@
 
     <text
       x="127.5"
-      y="57"
+      y="52"
       text-anchor="middle"
       font-family="Segoe UI, Arial, sans-serif"
-      font-size="38"
-      font-weight="750"
+      font-size="35"
+      font-weight="700"
       fill="#111827"
     >
       10+
@@ -419,10 +630,10 @@
 
     <text
       x="127.5"
-      y="89"
+      y="81"
       text-anchor="middle"
       font-family="Consolas, monospace"
-      font-size="13"
+      font-size="12"
       font-weight="700"
       letter-spacing="1"
       fill="#526176"
@@ -437,15 +648,22 @@
   <!-- STAT CARD 2 — HACKATHONS                                -->
   <!-- ======================================================= -->
 
-  <g transform="translate(335, 330)">
+  <g transform="translate(335, 310)">
 
     <rect
       width="255"
-      height="120"
+      height="105"
       rx="12"
       fill="url(#cardSurface)"
       stroke="#D8E1EC"
       stroke-width="1.2"
+    />
+
+    <rect
+      width="255"
+      height="105"
+      rx="12"
+      fill="url(#cardHighlight)"
     />
 
     <path
@@ -463,39 +681,37 @@
     />
 
     <path
-      d="M0 104 V120 H16"
+      d="M0 89 V105 H16"
       fill="none"
       stroke="#2563EB"
       stroke-width="2.5"
     />
 
     <path
-      d="M239 120 H255 V104"
+      d="M239 105 H255 V89"
       fill="none"
       stroke="#2563EB"
       stroke-width="2.5"
     />
 
-
     <text
       x="127.5"
-      y="57"
+      y="52"
       text-anchor="middle"
       font-family="Segoe UI, Arial, sans-serif"
-      font-size="38"
-      font-weight="750"
+      font-size="35"
+      font-weight="700"
       fill="#111827"
     >
       5+
     </text>
 
-
     <text
       x="127.5"
-      y="89"
+      y="81"
       text-anchor="middle"
       font-family="Consolas, monospace"
-      font-size="13"
+      font-size="12"
       font-weight="700"
       letter-spacing="1"
       fill="#526176"
@@ -510,15 +726,22 @@
   <!-- STAT CARD 3 — LEETCODE                                  -->
   <!-- ======================================================= -->
 
-  <g transform="translate(610, 330)">
+  <g transform="translate(610, 310)">
 
     <rect
       width="255"
-      height="120"
+      height="105"
       rx="12"
       fill="url(#cardSurface)"
       stroke="#D8E1EC"
       stroke-width="1.2"
+    />
+
+    <rect
+      width="255"
+      height="105"
+      rx="12"
+      fill="url(#cardHighlight)"
     />
 
     <path
@@ -536,39 +759,37 @@
     />
 
     <path
-      d="M0 104 V120 H16"
+      d="M0 89 V105 H16"
       fill="none"
       stroke="#2563EB"
       stroke-width="2.5"
     />
 
     <path
-      d="M239 120 H255 V104"
+      d="M239 105 H255 V89"
       fill="none"
       stroke="#2563EB"
       stroke-width="2.5"
     />
 
-
     <text
       x="127.5"
-      y="57"
+      y="52"
       text-anchor="middle"
       font-family="Segoe UI, Arial, sans-serif"
-      font-size="38"
-      font-weight="750"
+      font-size="35"
+      font-weight="700"
       fill="#111827"
     >
       196+
     </text>
 
-
     <text
       x="127.5"
-      y="89"
+      y="81"
       text-anchor="middle"
       font-family="Consolas, monospace"
-      font-size="13"
+      font-size="12"
       font-weight="700"
       letter-spacing="1"
       fill="#526176"
@@ -583,15 +804,22 @@
   <!-- STAT CARD 4 — CODECHEF                                  -->
   <!-- ======================================================= -->
 
-  <g transform="translate(885, 330)">
+  <g transform="translate(885, 310)">
 
     <rect
       width="255"
-      height="120"
+      height="105"
       rx="12"
       fill="url(#cardSurface)"
       stroke="#D8E1EC"
       stroke-width="1.2"
+    />
+
+    <rect
+      width="255"
+      height="105"
+      rx="12"
+      fill="url(#cardHighlight)"
     />
 
     <path
@@ -609,39 +837,37 @@
     />
 
     <path
-      d="M0 104 V120 H16"
+      d="M0 89 V105 H16"
       fill="none"
       stroke="#2563EB"
       stroke-width="2.5"
     />
 
     <path
-      d="M239 120 H255 V104"
+      d="M239 105 H255 V89"
       fill="none"
       stroke="#2563EB"
       stroke-width="2.5"
     />
 
-
     <text
       x="127.5"
-      y="57"
+      y="52"
       text-anchor="middle"
       font-family="Segoe UI, Arial, sans-serif"
-      font-size="38"
-      font-weight="750"
+      font-size="35"
+      font-weight="700"
       fill="#111827"
     >
       4★
     </text>
 
-
     <text
       x="127.5"
-      y="89"
+      y="81"
       text-anchor="middle"
       font-family="Consolas, monospace"
-      font-size="13"
+      font-size="12"
       font-weight="700"
       letter-spacing="1"
       fill="#526176"
@@ -656,11 +882,13 @@
   <!-- PORTFOLIO CTA PANEL                                     -->
   <!-- ======================================================= -->
 
-  <g transform="translate(60, 475)">
+  <g transform="translate(60, 435)">
+
+    <!-- CTA BASE -->
 
     <rect
       width="1080"
-      height="125"
+      height="120"
       rx="13"
       fill="url(#ctaPanel)"
       stroke="#D8E1EC"
@@ -668,7 +896,22 @@
     />
 
 
-    <!-- FOUR CORNER BRACKETS -->
+    <!-- CTA AMBIENT GLOW -->
+
+    <rect
+      width="1080"
+      height="120"
+      rx="13"
+      fill="url(#ctaGlow)"
+      clip-path="url(#ctaClip)"
+    />
+
+
+    <!-- ===================================================== -->
+    <!-- FOUR CTA CORNER BRACKETS                              -->
+    <!-- ===================================================== -->
+
+    <!-- TOP LEFT -->
 
     <path
       d="M0 17 V0 H17"
@@ -677,6 +920,8 @@
       stroke-width="2.5"
     />
 
+    <!-- TOP RIGHT -->
+
     <path
       d="M1063 0 H1080 V17"
       fill="none"
@@ -684,42 +929,45 @@
       stroke-width="2.5"
     />
 
+    <!-- BOTTOM LEFT -->
+
     <path
-      d="M0 108 V125 H17"
+      d="M0 103 V120 H17"
       fill="none"
       stroke="#2563EB"
       stroke-width="2.5"
     />
 
+    <!-- BOTTOM RIGHT -->
+
     <path
-      d="M1063 125 H1080 V108"
+      d="M1063 120 H1080 V103"
       fill="none"
       stroke="#2563EB"
       stroke-width="2.5"
     />
 
 
-    <!-- CTA HEADING -->
+    <!-- ===================================================== -->
+    <!-- CTA TEXT                                              -->
+    <!-- ===================================================== -->
 
     <text
       x="32"
-      y="52"
+      y="51"
       font-family="Georgia, 'Times New Roman', serif"
-      font-size="32"
+      font-size="31"
       font-weight="700"
       fill="#111827"
     >
       Explore the work behind the code.
     </text>
 
-
-    <!-- CTA SUBTITLE -->
-
     <text
       x="32"
-      y="87"
+      y="84"
       font-family="Segoe UI, Arial, sans-serif"
-      font-size="16"
+      font-size="15"
       fill="#5B687A"
     >
       Projects · Experience · Skills · Achievements · Engineering Journey
@@ -730,8 +978,7 @@
     <!-- ANIMATED PORTFOLIO BUTTON                             -->
     <!-- ===================================================== -->
 
-    <g transform="translate(715, 25)">
-
+    <g transform="translate(715, 22)">
 
       <!-- BUTTON BASE -->
 
@@ -740,17 +987,30 @@
         height="76"
         rx="12"
         fill="url(#buttonBg)"
-        stroke="#1D4ED8"
+        stroke="url(#buttonBorder)"
+        stroke-width="1.5"
       >
-
         <animate
           attributeName="stroke-opacity"
           values="0.65;1;0.65"
           dur="3.5s"
           repeatCount="indefinite"
         />
-
       </rect>
+
+
+      <!-- SUBTLE INNER GLASS -->
+
+      <rect
+        x="1.5"
+        y="1.5"
+        width="327"
+        height="73"
+        rx="10.5"
+        fill="none"
+        stroke="#FFFFFF"
+        stroke-opacity="0.16"
+      />
 
 
       <!-- GLASS SHINE REFLECTION -->
@@ -758,14 +1018,14 @@
       <g clip-path="url(#buttonClip)">
 
         <polygon
-          points="-120,0 -20,0 50,76 -50,76"
+          points="-140,0 -35,0 45,76 -60,76"
           fill="url(#shine)"
           opacity="0"
         >
 
           <animate
             attributeName="opacity"
-            values="0;0;0.82;0.45;0;0"
+            values="0;0;0.85;0.5;0;0"
             keyTimes="0;0.12;0.28;0.42;0.58;1"
             dur="4s"
             repeatCount="indefinite"
@@ -774,7 +1034,7 @@
           <animateTransform
             attributeName="transform"
             type="translate"
-            values="0 0;0 0;470 0;470 0"
+            values="0 0;0 0;500 0;500 0"
             keyTimes="0;0.12;0.58;1"
             dur="4s"
             repeatCount="indefinite"
