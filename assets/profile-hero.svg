@@ -447,49 +447,147 @@
     </text>
 
 
-    <!-- CTA BUTTON -->
+   <!-- ======================================================= -->
+<!-- ANIMATED GLASS PORTFOLIO BUTTON                         -->
+<!-- ======================================================= -->
 
-    <g transform="translate(745, 25)">
+<g transform="translate(745, 25)">
 
-      <rect
-        width="320"
-        height="65"
-        rx="12"
-        fill="#FFFFFF"
-        fill-opacity="0.16"
-        stroke="#FFFFFF"
-        stroke-opacity="0.40"
+  <!-- Subtle rise / forward movement -->
+  <animateTransform
+    attributeName="transform"
+    type="translate"
+    additive="sum"
+    values="
+      0 0;
+      0 -3;
+      0 0;
+      0 0
+    "
+    keyTimes="0; 0.12; 0.24; 1"
+    dur="4s"
+    repeatCount="indefinite"
+  />
+
+
+  <!-- Button background -->
+
+  <rect
+    width="320"
+    height="65"
+    rx="12"
+    fill="#FFFFFF"
+    fill-opacity="0.16"
+    stroke="#FFFFFF"
+    stroke-opacity="0.42"
+  >
+    <!-- Subtle glass breathing effect -->
+
+    <animate
+      attributeName="fill-opacity"
+      values="0.14;0.20;0.14"
+      dur="4s"
+      repeatCount="indefinite"
+    />
+
+    <animate
+      attributeName="stroke-opacity"
+      values="0.35;0.60;0.35"
+      dur="4s"
+      repeatCount="indefinite"
+    />
+
+  </rect>
+
+
+  <!-- ===================================================== -->
+  <!-- MOVING GLASS SHINE                                    -->
+  <!-- ===================================================== -->
+
+  <g>
+
+    <!-- Shine strip -->
+
+    <polygon
+      points="-90,0 -30,0 10,65 -50,65"
+      fill="#FFFFFF"
+      opacity="0"
+    >
+
+      <!-- Fade shine in and out -->
+
+      <animate
+        attributeName="opacity"
+        values="0;0;0.38;0;0"
+        keyTimes="0;0.15;0.35;0.55;1"
+        dur="4s"
+        repeatCount="indefinite"
       />
 
+      <!-- Move shine across button -->
 
-      <text
-        x="140"
-        y="40"
-        text-anchor="middle"
-        font-family="Segoe UI, Arial, sans-serif"
-        font-size="14"
-        font-weight="700"
-        letter-spacing="0.7"
-        fill="#FFFFFF"
-      >
-        EXPLORE PORTFOLIO
-      </text>
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="
+          0 0;
+          0 0;
+          430 0;
+          430 0
+        "
+        keyTimes="0;0.15;0.55;1"
+        dur="4s"
+        repeatCount="indefinite"
+      />
 
-
-      <text
-        x="280"
-        y="42"
-        text-anchor="middle"
-        font-family="Segoe UI, Arial, sans-serif"
-        font-size="23"
-        fill="#FFFFFF"
-      >
-        →
-      </text>
-
-    </g>
+    </polygon>
 
   </g>
+
+
+  <!-- ===================================================== -->
+  <!-- BUTTON TEXT                                           -->
+  <!-- ===================================================== -->
+
+  <text
+    x="140"
+    y="40"
+    text-anchor="middle"
+    font-family="Segoe UI, Arial, sans-serif"
+    font-size="14"
+    font-weight="700"
+    letter-spacing="0.7"
+    fill="#FFFFFF"
+  >
+    EXPLORE PORTFOLIO
+  </text>
+
+
+  <!-- ===================================================== -->
+  <!-- ANIMATED ARROW                                        -->
+  <!-- ===================================================== -->
+
+  <text
+    x="280"
+    y="42"
+    text-anchor="middle"
+    font-family="Segoe UI, Arial, sans-serif"
+    font-size="23"
+    fill="#FFFFFF"
+  >
+    →
+
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="0 0; 6 0; 0 0"
+      dur="1.6s"
+      repeatCount="indefinite"
+    />
+
+  </text>
+
+</g>
 
 
   <!-- ======================================================= -->
